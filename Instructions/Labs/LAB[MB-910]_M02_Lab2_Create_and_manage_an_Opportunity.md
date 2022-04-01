@@ -1,54 +1,59 @@
 ---
 lab:
-    title: 'Labo 2.2 : Créer et gérer une opportunité dans Dynamics 365 Sales'
-    module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'
+  title: 'Labo 2.2 : Créer et gérer une opportunité dans Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: c37f7dd95495b7c8ecb08af925acba05bded6b2b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908907"
 ---
-
-Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Module 2 : Apprendre les notions de base de Dynamics 365 Sales
 ========================
 
-## Labo pratique 2.2 - Créer et gérer une opportunité dans Dynamics 365 Sales 
+## <a name="practice-lab-22---create-and-manage-an-opportunity-in-dynamics-365-sales"></a>Labo pratique 2.2 - Créer et gérer une opportunité dans Dynamics 365 Sales 
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Au cours de cet exercice, vous allez capturer manuellement une opportunité de vente pour un client existant nommé Jim Glynn. Il travaille pour une entreprise appelée Adventure Works. Vous allez non seulement capturer l’opportunité dans le système, mais aussi utiliser les outils disponibles dans Dynamics 365 Sales pour traiter et fermer l’opportunité.
 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 25 minutes
+  - **Durée estimée** : 25 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 Dans cet exercice, vous allez vous familiariser avec les modalités d’accès aux différentes applications Dynamics 365 Customer Engagement en utilisant l’écran Page d’accueil Dynamics 365. 
 
 1. Si elle n’est pas déjà ouverte, ouvrez l’application **Centre des ventes Dynamics 365**. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
+2. Dans le volet de navigation de gauche, sélectionnez  **Opportunités**. 
 
 3. Dans la vue Mes opportunités ouvertes, cliquez sur le bouton **Nouveau** pour créer une opportunité.
 
 4. Remplissez les informations sur l’opportunité comme suit :
 
-	- **Rubrique :** Souhaite mettre à niveau son équipement existant - Vos initiales
+    - **Rubrique :** Souhaite mettre à niveau son équipement existant - Vos initiales
 
-	- **Contact :** Jay Klein
+    - **Contact :** Jay Klein
 
-	- **Compte :** Northwind Traders
+    - **Compte :** Northwind Traders
 
-	- **Période d’achat :** Ce trimestre
+    - **Période d’achat :** Ce trimestre
 
-	- **Montant du budget :** 50 000
+    - **Montant du budget :** 50 000
 
-	- **Processus d’achat :** Individuel
+    - **Processus d’achat :** Individuel
 
 5. Sur l’**en-tête de la nouvelle opportunité** en haut de l’enregistrement, sélectionnez la flèche vers le bas à côté du champ Propriétaire. 
 
 6. Procédez comme suit :
 
-	- **Date de clôture estimée :** Dans deux jours à compter d’aujourd’hui
+    - **Revenu Date fin prévue :** Dans deux jours à compter d’aujourd’hui
 
-	- **Chiffre d’affaires estimé :** 50 000
+    - **Chiffre d’affaires estimé :** 50 000
 
 7. Dans la **Barre de commandes** en haut, cliquez sur le bouton **Enregistrer et fermer**. 
 
@@ -60,9 +65,9 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 11. Procédez comme suit :
 
-	- **Date de clôture estimée :** Demain
+    - **Revenu Date fin prévue :** Demain
 
-	- **Chiffre d’affaires estimé :** 70 000
+    - **Chiffre d’affaires estimé :** 70 000
 
 12. Dans la sous-grille Parties prenantes, notez que Suzanne Burke est déjà définie comme partie prenante. 
 
@@ -90,7 +95,7 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 24. Définissez **Confirmer la date de décision** sur **la date d’aujourd’hui**. 
 
-25. Cliquez sur le bouton **Terminer**. 
+25. Cliquez le bouton **Terminer**. 
 
 26. Maintenant que vous avez terminé le processus d’entreprise, vous devez fermer l’opportunité. Dans la **Barre de commandes** de l’opportunité, cliquez sur le bouton **Fermer comme conclu**. 
 

@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 5.3 : Laboratoire Capstone Dynamics 365 Project Operations'
-    module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'
+  title: 'Labo 5.3 : Laboratoire Capstone Dynamics 365 Project Operations'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 29ccc6c69e61b6a2f2da8993e2b5fc29716284e2
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908838"
 ---
-
-Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Module 5 : Découvrir les principes de base de Dynamics 365 Project Operations
 ========================
 
-## Labo pratique 5.3 - Laboratoire Capstone Dynamics 365 Project Operations
+## <a name="practice-lab-53---dynamics-365-project-operations-capstone-lab"></a>Labo pratique 5.3 - Laboratoire Capstone Dynamics 365 Project Operations
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -40,7 +45,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 **Service et support :**
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Les vendeurs Entreprise de la société ABC se concentrent sur les clients qui recherchent des solutions d’entreprise plus spécialisées et personnalisées. Pour cette raison, les ventes Entreprise s’étendent généralement sur plusieurs emplacements avec communication liée et requièrent souvent plusieurs ressources pour mener à bien le projet. Les cycles de vente Entreprise de la société ABC peut durer de nombreux mois et exiger l’exécution de plusieurs parties mobiles. 
 
@@ -58,19 +63,19 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 - Créer un projet et définir une équipe du projet. 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
-## Exercice 1 : Créer un devis de projet et une estimation de projet
+## <a name="exercise-1-create-a-project-quote--project-estimate"></a>Exercice 1 : Créer un devis de projet et une estimation de projet
 
 L’opportunité de projet est utilisée pour saisir des détails généraux sur un projet potentiel. À mesure que des détails émergent à propos du projet, vous pouvez créer un devis de projet. Le devis de projet inclut souvent des détails relatifs aux différents rôles, à la chronologie et à la tarification. Le devis du projet est ce qui est présenté au client. C’est également là que vous pouvez commencer à créer un plan de projet associé au projet que vous vendez. Il vous permet de gagner du temps une fois que le projet est vendu parce qu’une grande partie des détails relatifs au projet sont déjà capturés.
 
 Dans cet exercice, vous allez créer un projet et définir les détails liés au devis du projet. 
 
-### Tâche 1 : Créer un devis de projet.  
+### <a name="task-1-create-a-project-quote"></a>Tâche 1 : Créer un devis de projet.  
 
 1. Avec l’opportunité de projet ouverte, sélectionnez l’onglet **Devis**. 
 
@@ -86,21 +91,21 @@ Dans cet exercice, vous allez créer un projet et définir les détails liés au
 
 7. À l’aide du formulaire **Création rapide de projet**, renseignez le projet comme suit :
 
-	- **Nom :** Implémentation globale complète - Vos initiales
+    - **Nom :** Implémentation globale complète - Vos initiales
 
-	- **Responsable de projet :** Sélectionnez votre enregistrement d’utilisateur
+    - **Chef de projet :** Sélectionnez votre enregistrement d’utilisateur
 
-	- **Modèle de calendrier :** Modèle de travail par défaut
+    - **Modèle de calendrier :** Modèle de travail par défaut
 
-	- **Unité contractante :** Fabrikam US
+    - **Unité contractante :** Fabrikam US
 
-	- **Date de début estimée :** Une semaine à compter de ce jour
+    - **Date de début estimée :** Une semaine à compter de ce jour
 
-	- **Coût de main-d’œuvre estimé :** 175 000 $
+    - **Coût de main-d’œuvre estimé :** 175 000 $
 
-	- **Dépenses estimées :** 50 000 $
+    - **Dépenses estimées :** 50 000 $
 
-	- **Coût total estimé :** 225 000 $
+    - **Coût total estimé :** 225 000 $
 
 8. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -116,21 +121,21 @@ Dans cet exercice, vous allez créer un projet et définir les détails liés au
 
 14. Renseignez l’élément **Détails de la ligne de devis** comme suit :
 
-	- **Description :** Exécution de la ligne de communication - Vos initiales
+    - **Description :** Exécution de la ligne de communication - Vos initiales
 
-	- **Classe de transaction :** Temporel
+    - **Classe de transaction :** Heure
 
-	- **Rôle :** Technicien réseau
+    - **Rôle :** Technicien réseau
 
-	- **Catégorie :** Temporel
+    - **Catégorie :** Heure
 
-	- **Date de début :** Un mois à compter d’aujourd’hui
+    - **Date de début :** Un mois à compter d’aujourd’hui
 
-	- **Date de fin :** Deux mois à compter d’aujourd’hui
+    - **Date de fin :** Deux mois à compter d’aujourd’hui
 
-	- **Unité d’allocation des ressources :** Fabrikam US
+    - **Unité d’allocation des ressources :** Fabrikam US
 
-	- **Unité :** Heure
+    - **Unité :** Hour
 
 
 15. Cliquez sur le bouton **Enregistrer et fermer** pour fermer l’élément de détail de ligne. 
@@ -141,14 +146,14 @@ Dans cet exercice, vous allez créer un projet et définir les détails liés au
 **Remarque :** Laissez le devis de projet ouvert afin de pouvoir l’utiliser dans la tâche suivante. 
 
 
-### Tâche 2 : Fermer le devis de projet et créer un contrat de projet.
+### <a name="task-2-close-the-project-quote-and-create-a-project-contract"></a>Tâche 2 : Fermer le devis de projet et créer un contrat de projet.
 
 Dans cette tâche, vous allez fermer le devis de projet que vous avez créé et le convertir en un contrat de projet. Le contrat de projet peut être utilisé et exploité pendant que le projet est en cours d’exécution. 
 
 
 1. Avec l’enregistrement de devis de projet **Implémentation de sécurité globale complète - Vos initiales** ouvert, sélectionnez le bouton **Fermer comme conclu** dans la barre de commandes. 
 
-2. Dans l’écran **Êtes-vous sûr de vouloir fermer le devis ?**, sélectionnez **OK**.
+2. Dans l’écran **Êtes-vous sûr de vouloir fermer le devis ?** , sélectionnez **OK**.
 
 3. Une fois le devis fermé, le nouveau contrat de projet **Implémentation de sécurité globale complète - Vos initiales** que vous venez de créer s’affiche. 
 
@@ -156,18 +161,18 @@ Dans cette tâche, vous allez fermer le devis de projet que vous avez créé et 
 
 **Remarque :** Laissez le contrat de projet ouvert afin de pouvoir l’utiliser dans la tâche suivante. 
 
-## Exercice 2 : Gérer un projet
+## <a name="exercise-2-manage-a-project"></a>Exercice 2 : Gérer un projet
 
 L’un des avantages des fonctionnalités de vente de projet dans Project Operations est la possibilité de créer un projet pendant le processus de vente. Le projet créé est accessible depuis différents enregistrements liés aux ventes, tels que les devis de projet et les contrats de projet. 
 
 Dans cet exercice, vous allez gérer certaines des tâches initiales liées à un projet, par exemple la définition des détails du projet, la définition d’une équipe de projet et la description des tâches du projet. 
 
 
-### Tâche 1 : Gérer les données de base du projet. 
+### <a name="task-1-manage-basic-project-data"></a>Tâche 1 : Gérer les données de base du projet. 
 
 1. Avec le contrat de projet **Implémentation de sécurité globale complète - Vos initiales** ouvert, sélectionnez l’onglet **Associé**. 
 
-2. Dans le menu qui s’affiche, sélectionnez **Projets**.
+2. Dans le menu qui s’affiche, sélectionnez  **Projets**.
 
 3. Ouvrez le projet **Implémentation de sécurité globale complète - Vos initiales**. 
 
@@ -178,7 +183,7 @@ Dans cet exercice, vous allez gérer certaines des tâches initiales liées à u
 6. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Planifier**. 
 
  
-### Tâche 2 : Créer une équipe de projet.
+### <a name="task-2-create-a-project-team"></a>Tâche 2 : Créer une équipe de projet.
 
 Chaque projet est associé à une équipe dont les membres contribuent à l’exécution du projet. Dans cette tâche, nous allons définir les ressources qui constituent les membres de l’équipe du projet. 
 
@@ -189,36 +194,36 @@ Chaque projet est associé à une équipe dont les membres contribuent à l’ex
 
 3. Configurez l’enregistrement du membre d’équipe comme suit :
 
-	- **Nom de la fonction :** Ingénieur robotique - Vos initiales
+    - **Nom de la fonction :** Ingénieur robotique - Vos initiales
 
-	- **Ressource pouvant être réservée :** Allison Dickson
+    - **Ressource pouvant être réservée :** Allison Dickson
 
-	- **Rôle :** Ingénieur robotique
+    - **Rôle :** Ingénieur robotique
 
 4. Sélectionnez la flèche à côté du bouton Enregistrer et Fermer. Dans le menu qui apparaît, sélectionnez **Enregistrer et créer nouveau**.
 
 5. Configurez l’enregistrement du nouveau membre d’équipe comme suit :
 
-	- **Nom de la fonction :** Ingénieur logiciel - Vos initiales
+    - **Nom de la fonction :** Ingénieur logiciel - Vos initiales
 
-	- **Ressource pouvant être réservée :** Bob Kozak
+    - **Ressource pouvant être réservée :** Bob Kozak
 
-	- **Rôle :** Ingénieur logiciel
+    - **Rôle :** Ingénieur logiciel
 
 6. Sélectionnez la flèche à côté du bouton Enregistrer et Fermer. Dans le menu qui apparaît, sélectionnez **Enregistrer et créer nouveau**.
 
 7. Configurez l’enregistrement du membre d’équipe comme suit :
 
-	- **Nom de la fonction :** Technicien réseau - Vos initiales
+    - **Nom de la fonction :** Technicien réseau - Vos initiales
 
-	- **Ressource pouvant être réservée :** Dianna Woodward
+    - **Ressource pouvant être réservée :** Dianna Woodward
 
-	- **Rôle :** Technicien réseau
+    - **Rôle :** Technicien réseau
 
 8. Sélectionnez le bouton **Enregistrer et fermer**.
 
 
-### Tâche 3 : Définir une planification de projet.
+### <a name="task-3-define-a-project-schedule"></a>Tâche 3 : Définir une planification de projet.
 
 Un autre aspect important de la définition de projet consiste à définir les tâches du projet et à planifier le projet. Dans cette tâche, nous allons ajouter des tâches de projet et leur associer différents rôles. 
 
@@ -233,35 +238,35 @@ Un autre aspect important de la définition de projet consiste à définir les t
 
 5. Configurez l’élément comme suit :
 
-	- **Nom :** Créer une topologie système
+    - **Nom :** Créer une topologie système
 
-	- **Effort :** 25
+    - **Effort :** 25
 
 6. Dans la barre d’outils de la sous-grille Planifier, sélectionnez à nouveau le bouton **+ Ajouter** pour ajouter une nouvelle tâche. 
 
 7. Configurez l’élément comme suit :
 
-	- **Nom :** Concevoir des caméras
+    - **Nom :** Concevoir des caméras
 
-	- **Prédécesseur :** Créer une topologie système
+    - **Prédécesseur :** Créer une topologie système
 
-	- **Effort :** 50
+    - **Effort :** 50
 
 8. Dans la barre d’outils de la sous-grille Planifier, sélectionnez à nouveau le bouton **+ Ajouter** pour ajouter une tâche finale. 
 
 9. Configurez l’élément comme suit :
 
-	- **Nom :** Vérifier et approuver la conception
+    - **Nom :** Vérifier et approuver la conception
 
-	- **Prédécesseur :** Concevoir des caméras
+    - **Prédécesseur :** Concevoir des caméras
 
-	- Effort : 8 
+    - Effort : 8 
 
  
 **Remarque :** Restez sur l’onglet Planifier car nous allons apporter quelques modifications supplémentaires dans la tâche suivante. 
 
 
-### Tâche 4 : Associer des ressources avec un projet.
+### <a name="task-4-associate-resources-with-a-project"></a>Tâche 4 : Associer des ressources avec un projet.
 
 Dans le cadre de la définition d’une planification de projet, vous pouvez spécifier les types de ressources qui seront utilisées pour répondre aux besoins. Il peut s’agir de ressources nommées ou de ressources génériques qui seront remplacées par des ressources nommées à l’avenir. Dans cette tâche, vous allez définir à la fois les ressources nommées et génériques pour les tâches de projet que vous avez créées. 
 
@@ -273,11 +278,11 @@ Dans le cadre de la définition d’une planification de projet, vous pouvez sp�
 
 4. Configurez le nouveau membre d’équipe comme suit
 
-	- **Nom de la fonction :** Ingénieur robotique générique - Vos initiales
+    - **Nom de la fonction :** Ingénieur robotique générique - Vos initiales
 
-	- **Ressource pouvant être réservée :** Ressource générique
+    - **Ressource pouvant être réservée :** Ressource générique
 
-	- **Rôle :** Ingénieur robotique
+    - **Rôle :** Ingénieur robotique
 
 5. Sélectionnez le bouton **Enregistrer et fermer**. 
 
@@ -289,11 +294,11 @@ Dans le cadre de la définition d’une planification de projet, vous pouvez sp�
 
 9. Configurez le membre d’équipe du projet comme suit :
 
-	- **Nom de la fonction :** Ingénieur robotique générique - Vos initiales
+    - **Nom de la fonction :** Ingénieur robotique générique - Vos initiales
 
-	- **Ressource pouvant être réservée :** Ressource générique
+    - **Ressource pouvant être réservée :** Ressource générique
 
-	- **Rôle :** Ingénieur robotique
+    - **Rôle :** Ingénieur robotique
 
 10. Sélectionnez le bouton **Enregistrer et fermer**. 
 

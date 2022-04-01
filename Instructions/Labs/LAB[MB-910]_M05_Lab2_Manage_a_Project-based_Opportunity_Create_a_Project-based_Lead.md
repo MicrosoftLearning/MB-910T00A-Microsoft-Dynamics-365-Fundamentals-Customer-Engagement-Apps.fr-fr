@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 5.2 : Gérer une opportunité basée sur un projet'
-    module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'
+  title: 'Labo 5.2 : Gérer une opportunité basée sur un projet'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 8d6402de96013463e0f122c4bb9dc15f35994787
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908823"
 ---
-
-Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Module 5 : Découvrir les principes de base de Dynamics 365 Project Operations
 ========================
 
-## Labo pratique 5.2 - Gérer une opportunité basée sur un projet
+## <a name="practice-lab-52---manage-a-project-based-opportunity"></a>Labo pratique 5.2 - Gérer une opportunité basée sur un projet
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -40,7 +45,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 **Service et support :**
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Les vendeurs Entreprise de la société ABC se concentrent sur les clients qui recherchent des solutions d’entreprise plus spécialisées et personnalisées. Pour cette raison, les ventes Entreprise s’étendent généralement sur plusieurs emplacements avec communication liée et requièrent souvent plusieurs ressources pour mener à bien le projet. Les cycles de vente Entreprise de la société ABC peut durer de nombreux mois et exiger l’exécution de plusieurs parties mobiles. 
 
@@ -52,17 +57,17 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 - Qualifier et convertir un prospect en une opportunité de projet.
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 20 minutes
+  - **Durée estimée** : 20 minutes
   
-## Exercice 1 : Gérer une opportunité basée sur un projet 
+## <a name="exercise-1-manage-a-project-based-opportunity"></a>Exercice 1 : Gérer une opportunité basée sur un projet 
 
 Maintenant que vous avez créé avec succès une opportunité de projet basée sur un projet, vous allez utiliser l’opportunité pour définir les détails généraux du projet. Vous allez notamment définir les produits et les éléments de travail, et définir les estimations liées aux ventes. 
 
-### Tâche 1 : Gérer une opportunité de vente 
+### <a name="task-1-manage-a-sales-opportunity"></a>Tâche 1 : Gérer une opportunité de vente 
 
-1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
+1. Dans le volet de navigation de gauche, sélectionnez  **Opportunités**. 
 
 2. Dans la liste Mes opportunités de service de projet ouvertes, ouvrez l’opportunité **Implémentation de sécurité globale complète - Vos initiales** qui a été créée lorsque vous avez qualifié le prospect précédemment. Notez que l’enregistrement se trouve déjà dans la phase **Développer** puisqu’il a été créé à partir d’un prospect précédemment qualifié.  
 
@@ -70,15 +75,15 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 4. Procédez comme suit :
 
-	- **Date de clôture estimée :** Demain
+    - **Revenu Date fin prévue :** Demain
 
-	- **Chiffre d’affaires estimé :** 250 000
+    - **Chiffre d’affaires estimé :** 250 000
 
 5. Dans le flux des processus d’entreprise prospect-opportunité, sélectionnez la phase **Développer**. Notez que vous devez identifier les parties prenantes et les concurrents.
 
 6. Sélectionnez le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
 
-7. Dans la sous-grille **Parties prenantes**, notez que **Jean** est déjà défini comme partie prenante. 
+7. Dans la sous-grille **Parties prenantes**, notez que  **Jean** est déjà défini comme partie prenante. 
 
 8. Dans la sous-grille Équipe de vente, sélectionnez **Nouvelle connexion**. (Si vous ne voyez pas le bouton **Nouvelle connexion**, sélectionnez les **points de suspension verticaux**, et dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**.) 
 
@@ -86,9 +91,9 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 10. Dans la sous-grille Concurrents, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
 
-11. Recherchez et sélectionnez **Coho Security**. (Si Coho Security n’existe pas, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents** sinon passez à l’étape 15**.**)  
+11. Recherchez et sélectionnez **Coho Security**. (Si Coho Security n’existe pas, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents** sinon passez à l’étape 15 **.** )  
 
-12. Dans l’écran Création rapide : **Concurrent**, définissez le champ **Nom** sur **Coho Security - « Vos initiales »**.
+12. Dans l’écran Création rapide : **Concurrent**, définissez le champ **Nom** sur **Coho Security - « Vos initiales »** .
 
 13. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -106,29 +111,29 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 20. Dans la sous-grille Lignes basées sur le projet, sélectionnez le bouton Ajouter une nouvelle ligne d’opportunité. Configurez l’élément Nouvelle ligne d’opportunité comme suit :
 
-	- **Type de produit :** Service basé sur un projet
+    - **Type de produit :** Service basé sur un projet
 
-	- **Opportunité :** Implémentation de sécurité globale complète - Vos initiales
+    - **Opportunité :** Implémentation de sécurité globale complète - Vos initiales
 
-	- **Nom :** Développement système
+    - **Nom :** Développement système
 
-	- **Budget du client :** 25 000
+    - **Budget du client :** 25 000
 
-	- **Mode de facturation :** Prix fixe
+    - **Mode de facturation :** Prix fixe
 
-21. Sélectionnez **Enregistrer et fermer**
+21. Sélectionnez **Enregistrer et fermer**
 
 22. Dans la sous-grille **Lignes basées sur le projet**, sélectionnez à nouveau **Ajouter une nouvelle ligne d’opportunité** pour ajouter un nouvel élément de ligne.   
 Configurez le nouvel élément Ligne d’opportunité comme suit :
 
-	- **Type de produit :** Service basé sur un projet
+    - **Type de produit :** Service basé sur un projet
 
-	- **Opportunité :** Implémentation de sécurité globale complète - Vos initiales
+    - **Opportunité :** Implémentation de sécurité globale complète - Vos initiales
 
-	- **Nom :** Implémentation système 
+    - **Nom :** Implémentation système 
 
-	- **Budget du client :** 100000 
+    - **Budget du client :** 100000 
 
-	- **Mode de facturation :** Temps et matériel
+    - **Mode de facturation :** Temps et matériel
 
-23. Sélectionnez **Enregistrer et fermer**
+23. Sélectionnez **Enregistrer et fermer**

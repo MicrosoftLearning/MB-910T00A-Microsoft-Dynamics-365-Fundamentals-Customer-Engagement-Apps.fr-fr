@@ -1,21 +1,26 @@
 ---
 lab:
-    title: 'Labo 4.2 : Planifier des éléments avec Dynamics 365 Field Service'
-    module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service'
+  title: 'Labo 4.2 : Planifier des éléments avec Dynamics 365 Field Service'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: abbdb5d7f8c2507bebf634a9b0fb1afea8fc8da4
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908818"
 ---
-
-Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Module 4 : apprendre les notions de base de Dynamics 365 Field Service
 ========================
 
-## Labo pratique 4.2 - Planifier des éléments avec Dynamics 365 Field Service
+## <a name="practice-lab-42---schedule-items-in-dynamics-365-field-service"></a>Labo pratique 4.2 - Planifier des éléments avec Dynamics 365 Field Service
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 20 minutes
+  - **Durée estimée** : 20 minutes
 
   **Remarque :** Il n’est pas possible d’ouvrir le volet Besoins en réservations dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
   
-## Instructions
+## <a name="instructions"></a>Instructions
 
 1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte. 
 
@@ -23,31 +28,31 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvelle ressource pouvant être réservée.
 
-	- **Type de ressource :** Contact
+    - **Type de ressource :** Contact
 
-	- **Contact :** Eleanor Ribeiro
+    - **Contact :** Eleanor Ribeiro
 
 4. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer**.
 
 5. Répétez les étapes pour créer trois autres ressources pouvant être réservées.
 
-	- **Type de ressource :** Contact
+    - **Type de ressource :** Contact
 
-	- **Contact :** Abbie Gardiner
-
-
-	- **Type de ressource :** Contact
-
-	- **Contact :** Aidan Knaggs
-	
-	- Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
+    - **Contact :** Abbie Gardiner
 
 
-	- **Type de ressource :** Contact
+    - **Type de ressource :** Contact
 
-	- **Contact :** Cacilia Viera
-	
-	- Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
+    - **Contact :** Aidan Knaggs
+    
+    - Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
+
+
+    - **Type de ressource :** Contact
+
+    - **Contact :** Cacilia Viera
+    
+    - Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
 
 
 6. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer**.
@@ -58,17 +63,17 @@ Dans le volet de navigation de gauche, sélectionnez la zone **Ressources**, pui
 
 9. Renseignez les détails de l’ordre de travail comme suit :
 
-	- **Compte de service :** Adatum Corporation
+    - **Compte de service :** Adatum Corporation
 
-	- **Type d’ordre de travail** : Service
+    - **Type d’ordre de travail :** Service
 
-	- **Tarifs :** CRM Service USE (exemple)
+    - **Liste de prix :** CRM Service USE (exemple)
 
-	- **Imposable :** Non
+    - **Imposable :** Non
 
 10. Sélectionnez **Enregistrer** pour enregistrer vos modifications.
 
-	- **Type d’incident principal :** Surchauffe de l’appareil (créer un nouveau)
+    - **Type d’incident principal :** Surchauffe de l’appareil (créer un nouveau)
 
 11. Dans la **Barre de commandes** de l’**Ordre de travail**, cliquez sur le bouton **Réserver**. L’**Assistant Planifier** s’ouvre alors. 
 
@@ -102,5 +107,5 @@ Dans le volet de navigation de gauche, sélectionnez la zone **Ressources**, pui
 
 26. Sélectionnez la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Abbie et localisez l’ordre de travail planifié pour Abbie à une heure ultérieure du jour. 
 
-27. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution****.**
+27. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution** **.**
 

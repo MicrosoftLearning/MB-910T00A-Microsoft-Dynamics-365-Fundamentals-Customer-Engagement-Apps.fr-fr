@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 4.3 : Laboratoire Capstone Dynamics 365 Field Service'
-    module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service'
+  title: 'Labo 4.3 : Laboratoire Capstone Dynamics 365 Field Service'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908904"
 ---
-
-Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Module 4 : apprendre les notions de base de Dynamics 365 Field Service
 ========================
 
-## Labo pratique 4.3 - Laboratoire Capstone Dynamics 365 Field Service
+## <a name="practice-lab-43---dynamics-365-field-service-capstone-lab"></a>Labo pratique 4.3 - Laboratoire Capstone Dynamics 365 Field Service
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -41,7 +46,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 En général, la société ABC répartit les techniciens de terrain sur site pour qu’ils travaillent sur des tâches client couvrant l’un de ces trois scénarios : 
 
@@ -59,31 +64,31 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 - Résoudre un ordre de travail à l’aide de l’application mobile 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
-## Exercice 1 : Créer un incident et le transformer en un ordre de travail 
+## <a name="exercise-1-create-a-case-and-escalate-to-a-work-order"></a>Exercice 1 : Créer un incident et le transformer en un ordre de travail 
 
-### Tâche 1 : Créer un enregistrement d’incident
+### <a name="task-1-create-a-case-record"></a>Tâche 1 : Créer un enregistrement d’incident
 
 1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
+2. Dans le volet de navigation de gauche, sélectionnez  **Incidents**. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 
 4. Complétez votre nouvel enregistrement d’incident comme suit :
 
-	- **Titre de l’incident :** Caméra hors service
+    - **Titre de l’incident :** Caméra hors service
 
-	- **Client :** Société Best For You Organics
+    - **Client :** Société Best For You Organics
 
-	- **Origine :** Téléphone
+    - **Origine :** Phone
 
-	Sauvegardez l’enregistrement.
+    Enregistrez l’enregistrement.
 
 5. Sélectionnez l’onglet **Field Service**
 
@@ -93,7 +98,7 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
  
 
-### Tâche 2 : Créer manuellement un ordre de travail
+### <a name="task-2-manually-create-a-word-order"></a>Tâche 2 : Créer manuellement un ordre de travail
 
 Nous reviendrons ultérieurement à l’enregistrement d’incident que vous avez créé. Examinons ensuite comment créer manuellement un ordre de travail. 
 
@@ -105,17 +110,17 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 3. Renseignez les détails de l’ordre de travail comme suit :
 
-	- **Compte de service :** Déplacements de Margie
+    - **Compte de service :** Déplacements de Margie
 
-	- **Tarifs :** Office 365 US (exemple)
+    - **Liste de prix :** Office 365 US (exemple)
 
-	- **Type d’ordre de travail** : Service
+    - **Type d’ordre de travail :** Service
 
-	- **Imposable :** Non
+    - **Imposable :** Non
 
-	Sauvegardez l’enregistrement et attribuez-lui le type Incident principal
+    Sauvegardez l’enregistrement et attribuez-lui le type Incident principal
 
-	- **Type d’incident principal :** Ventilateur hors service (créer un nouveau)
+    - **Type d’incident principal :** Ventilateur hors service (créer un nouveau)
 
 4. Notez le n° de l’ordre de travail pour être sûr de travailler ultérieurement sur l’ordre de travail correct. 
 
@@ -125,15 +130,15 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 7. Sous **Préférences**, configurez les préférences temporelles comme suit :
 
-	- **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
+    - **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
 
-	- **Temps jusqu’à la promesse :** Aujourd’hui à 11:00
+    - **Temps jusqu’à la promesse :** Aujourd'hui à 11:00
 
 8. Sélectionnez **Enregistrer et fermer** pour enregistrer vos modifications et quitter le nouvel ordre de travail.
 
  
 
-### Tâche 3 : Générer un ordre de travail à partir d’un incident
+### <a name="task-3-generate-a-work-order-from-a-case"></a>Tâche 3 : Générer un ordre de travail à partir d’un incident
 
 Une autre manière de générer des ordres de travail consiste à réaffecter des enregistrements d’incident. Dans cet exemple, nous allons réaffecter l’enregistrement d’incident Caméra hors service que nous avons créé précédemment. 
 
@@ -151,9 +156,9 @@ Une autre manière de générer des ordres de travail consiste à réaffecter de
 
 Les deux ordres de travail que vous avez créés récemment sont tous deux prêts à être planifiés. 
 
-## Exercice 2 : Planifier des éléments avec Dynamics 365 Field Service  
+## <a name="exercise-2-schedule-items-with-dynamics-365-field-service"></a>Exercice 2 : Planifier des éléments avec Dynamics 365 Field Service  
 
-### Tâche 1 : Planifier directement à partir d’un ordre de travail
+### <a name="task-1-schedule-directly-from-a-work-order"></a>Tâche 1 : Planifier directement à partir d’un ordre de travail
 
 1. Dans le volet de navigation de gauche, sélectionnez **Tableau de planification**.
 
@@ -171,7 +176,7 @@ Les deux ordres de travail que vous avez créés récemment sont tous deux prêt
 
  
 
-### Tâche 2 : Planifier à l’aide du tableau de planification
+### <a name="task-2-schedule-with-the-schedule-board"></a>Tâche 2 : Planifier à l’aide du tableau de planification
 
 1. Dans le volet de navigation de gauche, sélectionnez **Tableau de planification**.
 

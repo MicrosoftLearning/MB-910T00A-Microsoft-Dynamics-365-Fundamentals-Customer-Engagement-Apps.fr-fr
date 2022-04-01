@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 2.3 : Laboratoire Capstone Dynamics 365 Sales'
-    module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'
+  title: 'Labo 2.3 : Laboratoire Capstone Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: fb97a68aa5e115834a5b925b06c7e3831a525a5b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908868"
 ---
-
-Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Module 2 : Apprendre les notions de base de Dynamics 365 Sales
 ========================
 
-## Labo pratique 2.3 - Laboratoire Capstone Dynamics 365 Sales
+## <a name="practice-lab-23---dynamics-365-sales-capstone-lab"></a>Labo pratique 2.3 - Laboratoire Capstone Dynamics 365 Sales
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -41,7 +46,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié.  
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Vous êtes représentant commercial pour les ventes résidentielles de la société ABC. Si un grand nombre de vos prospects sont issus des événements parrainés par la société, des campagnes marketing et des listes achetées, il vous arrive toutefois encore souvent de recevoir des demandes directes de la part des clients. Lorsque vous recevez ces demandes, vous devez les entrer manuellement et exploiter ces prospects tout au long du cycle de vie de vente. 
 
@@ -61,20 +66,20 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 - Générer une facture. 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 30 minutes
+  - **Durée estimée** : 30 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
   
-## Exercice 1 : Créer et gérer un prospect dans Dynamics 365 Sales
+## <a name="exercise-1-create-and-qualify-a-lead-in-dynamics-365-sales"></a>Exercice 1 : Créer et gérer un prospect dans Dynamics 365 Sales
 
 
-### Tâche 1 : Créer un nouveau prospect
+### <a name="task-1-create-a-new-lead"></a>Tâche 1 : Créer un nouveau prospect
 
-1. Si nécessaire, ouvrez un navigateur InPrivate et accédez à [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Si nécessaire, ouvrez un navigateur non privé et accédez à [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
-2.  À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
+2. À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
 
 3. Dans la liste d’applications qui s’affiche, sélectionnez **Centre des ventes**.
 
@@ -88,28 +93,28 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 8. Complétez votre nouvel enregistrement de prospect comme suit :
 
-	- **Rubrique :** Intéressé par un équipement de sécurité - Vos initiales »
+    - **Rubrique :** Intéressé par un équipement de sécurité - Vos initiales »
 
-	- **Prénom :** Piper
+    - **Prénom :** Piper
 
-	- **Nom :** Smith - Vos initiales
+    - **Nom :** Smith - Vos initiales
 
-	- **Téléphone mobile :** 888 555-1762
+    - **Téléphone mobile :** 888 555-1762
 
-	- **E-mail :** piper@sample.com
+    - **E-mail :** piper@sample.com
 
 
 9. Cliquez sur le bouton **Enregistrer** dans la barre de commandes pour enregistrer le nouveau prospect et laissez-le ouvert.
 
 10. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **Phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
 
-	- **Période d’achat :** Ce trimestre
+    - **Période d’achat :** Ce trimestre
 
-	- **Budget estimé :** 10000 
+    - **Budget estimé :** 10000 
 
-	- **Processus d’achat :** Individuel
+    - **Processus d’achat :** Individuel
 
-	- **Identifier le décisionnaire :** Terminé
+    - **Identifier le décisionnaire :** Terminé
 
 11. Cliquez sur le symbole **X** dans la fenêtre de la phase pour fermer la fenêtre. 
 
@@ -119,13 +124,13 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 14. Dans l’écran Création rapide d’appel téléphonique, renseignez l’appel téléphonique comme suit :
 
-	- **Objet :** Intéressé par un équipement de sécurité pour la maison
+    - **Objet :** Intéressé par un équipement de sécurité pour la maison
 
-	- **Numéro de téléphone :** 888 555-1762
+    - **Numéro de téléphone :** 888 555-1762
 
-	- **Direction :** Entrant
+    - **Direction :** Entrant
 
-	- **Description :** Après les événements qui se sont produits dans son quartier, elle cherche à acheter un système de sécurité. 
+    - **Description :** Après les événements qui se sont produits dans son quartier, elle cherche à acheter un système de sécurité. 
 
 15. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -139,7 +144,7 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
  
 
-### Tâche 2 : Qualifier le prospect comme opportunité
+### <a name="task-2-qualify-the-lead-as-an-opportunity"></a>Tâche 2 : Qualifier le prospect comme opportunité
 
 Après une visite chez Piper, vous estimez qu’elle manifeste suffisamment d’intérêt pour poursuivre la démarche et que nous proposons des produits et services susceptibles de l’intéresser. Vous allez ensuite qualifier l’enregistrement de prospect. Un enregistrement d’opportunité associé est créé et le système passe à la phase suivante du processus de vente prospect-opportunité. 
 
@@ -155,13 +160,13 @@ Après une visite chez Piper, vous estimez qu’elle manifeste suffisamment d’
 
  
 
-## Exercice 2 : Gérer une opportunité de vente dans Dynamics 365 Sales
+## <a name="exercise-2-manage-a-sales-opportunity-in-dynamics-365-sales"></a>Exercice 2 : Gérer une opportunité de vente dans Dynamics 365 Sales
 
 Maintenant que nous avons réussi à qualifier le prospect comme opportunité, il est temps de faire progresser l’opportunité dans son cycle de vie.
 
-### Tâche 1 : Gérer une opportunité de vente et créer un devis 
+### <a name="task-1-manage-a-sales-opportunity--create-a-quote"></a>Tâche 1 : Gérer une opportunité de vente et créer un devis 
 
-1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
+1. Dans le volet de navigation de gauche, sélectionnez  **Opportunités**. 
 
 2. Sélectionnez la flèche déroulante à côté de **Mes opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Toutes les opportunités**.
 
@@ -183,25 +188,25 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 11. Procédez comme suit :
 
-	- **Date de clôture estimée :** Demain
+    - **Revenu Date fin prévue :** Demain
 
-	- **Chiffre d’affaires estimé :** 12 500,00
+    - **Chiffre d’affaires estimé :** 12,500.00
 
 12. Accédez à la **Chronologie des enregistrements** au milieu de l’écran et sélectionnez l’**icône du signe Plus** pour ajouter une nouvelle activité. 
 
 13. Dans le menu qui s’affiche, sélectionnez **Rendez-vous**.
 
-14. Dans l’écran **Création rapide : Rendez-vous**, renseignez les champs comme suit :
+14. Dans le formulaire **Création rapide : Rendez-vous**, renseignez les champs comme suit :
 
-	- **Objet :** Réunion rapide - « Vos initiales »
+    - **Objet :** Réunion rapide - « Vos initiales »
 
-	- **Lieu :** En ligne
+    - **Emplacement :** En ligne
 
-	- **Heure de début** : Demain à 10h00
+    - **Heure de début** : Demain à 10h00
 
-	- **Heure de fin :** Demain à 10:30
+    - **Heure de fin :** Demain à 10h30
 
-15. Dans la barre de commandes, sélectionnez **Enregistrer et fermer**.
+15. Dans la barre de commandes, sélectionnez **Enregistrer et fermer**
 
 16. Dans le flux des processus d’entreprise prospect-opportunité, sélectionnez la phase **Développer**. Notez que vous devez identifier les parties prenantes et les concurrents.
 
@@ -217,7 +222,7 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 22. Dans l’écran **Rechercher un enregistrement**, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents**.
 
-23. Dans l’écran Création rapide : **Concurrent**, définissez le champ **Nom** sur **Coho Security - « Vos initiales »**.
+23. Dans l’écran Création rapide : **Concurrent**, définissez le champ **Nom** sur **Coho Security - « Vos initiales »** .
 
 24. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -237,18 +242,18 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
  
 
-**IMPORTANT :** Étant donné que de nombreuses applications internes sont déployées sur ces environnements, il est possible que le formulaire de devis actuellement affiché ne soit pas le formulaire correct pour les fonctionnalités liées aux ventes. Si le texte sous le nom du devis **Intéressé par un équipement de sécurité - Vos initiales** affiche : **Devis . Devis**, le formulaire correct est chargé. S’il affiche **Devis . Informations de Field Service**, vous devez le changer. Si vous avez besoin de le modifier, sélectionnez la flèche déroulante à côté de **Devis . Informations de Field Service**. Dans le menu qui s’affiche, sélectionnez **Devis**. 
+**IMPORTANT :** Étant donné que de nombreuses applications internes sont déployées sur ces environnements, il est possible que le formulaire de devis actuellement affiché ne soit pas le formulaire correct pour les fonctionnalités liées aux ventes. Si le texte sous le nom du devis **Intéressé par un équipement de sécurité - Vos initiales** affiche : **Devis . Devis**, le formulaire correct est chargé. S’il affiche **Devis . Informations de Field Service**, vous devez le changer. Si vous avez besoin de le modifier, sélectionnez la flèche déroulante à côté de **Devis . Informations de Field Service**. Dans le menu qui s’affiche, sélectionnez **Devis**. 
 
  
 
-### Tâche 2 : Gérer un devis
+### <a name="task-2-manage-a-quote"></a>Tâche 2 : Gérer un devis
 
 Maintenant que vous avez un devis associé, vous allez préparer le devis à présenter à un client. Dans des circonstances habituelles, nous ajouterions probablement les produits à l’enregistrement du devis avant qu’il soit transmis à un client. Étant donné que nous travaillons dans des environnements partagés, nous allons ignorer l’ajout des lignes de devis et nous concentrer sur la remise du devis. 
 
 
 1. Vous devez maintenant sélectionner une liste de prix à joindre à l’opportunité.  Sous **Tarifs** dans le volet gauche, sélectionnez l’icône Recherche puis sélectionnez **Office 365 USA (exemple)** dans les options. Dans la **Barre de commandes**, sélectionnez le bouton **Activer un devis** pour activer le devis. 
 
-2. Maintenant que le devis a été créé, mettons à jour l’enregistrement de l’opportunité de manière à refléter les nouvelles données. Dans l’enregistrement du devis, sélectionnez l’opportunité **Intéressé par un équipement de sécurité** - **« Votre nom »** dans le champ **Opportunité** sous la section **Informations de vente**. L’enregistrement du devis devrait s’ouvrir sur votre écran. 
+2. Maintenant que le devis a été créé, mettons à jour l’enregistrement de l’opportunité de manière à refléter les nouvelles données. Dans l’enregistrement du devis, sélectionnez l’opportunité **Intéressé par un équipement de sécurité** -  **« Votre nom »** dans le champ **Opportunité** sous la section **Informations de vente**. L’enregistrement du devis devrait s’ouvrir sur votre écran. 
 
 3. Dans l’enregistrement du devis, sélectionnez la phase **Proposer**. 
 
@@ -270,15 +275,15 @@ Maintenant que vous avez un devis associé, vous allez préparer le devis à pr�
 
 12. Dans la fenêtre Créer une commande, renseignez les champs suivants :
 
-	- **Raison du statut :** Conclu
+    - **Motif du statut :** Conclu
 
-	- **Conclu le :** Date du jour
+    - **Conclu le :** Date du jour
 
-	- **Fermer l’opportunité :** Oui
+    - **Fermer l’opportunité :** Oui
 
-	- **Calculer le revenu réel à partir des devis :** Non
+    - **Calculer le revenu réel à partir des devis :** Non
 
-	- **Revenu réel :** 12 500$
+    - **Revenu réel :** 12 500 $
 
 13. Sélectionnez le bouton **OK** 
 
@@ -286,7 +291,7 @@ Le système crée une nouvelle commande client associée à l’élément. Il fe
 
 ###  
 
-### Tâche 3 : Gérer la commande et la facture
+### <a name="task-3-manage-the-order-and-invoice"></a>Tâche 3 : Gérer la commande et la facture
 
 Maintenant que vous avez généré une commande client, nous allons fermer la commande et générer une facture. Dans des circonstances habituelles, les produits figurant sur l’enregistrement de devis seraient ajoutés à la commande client. Étant donné que nous travaillons dans des environnements partagés, nous allons poursuivre comme si les produits étaient joints. 
 
@@ -296,9 +301,9 @@ Maintenant que vous avez généré une commande client, nous allons fermer la co
 
 2. Dans la fenêtre Exécuter la commande, renseignez les champs suivants :
 
-	- **Raison du statut :** Terminé
+    - **Motif du statut :** Achèvement
 
-	- **Date d’exécution :** Date du jour
+    - **Date d’exécution :** Date du jour
 
 3. Sélectionnez le bouton **Traiter**. 
 

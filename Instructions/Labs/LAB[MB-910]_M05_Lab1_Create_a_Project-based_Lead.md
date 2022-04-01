@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 5.1 : Créer un prospect basé sur un projet'
-    module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'
+  title: 'Labo 5.1 : Créer un prospect basé sur un projet'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: b5056adaef7064be8a62dcd85c2b1e0fb81b986a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908826"
 ---
-
-Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Module 5 : Découvrir les principes de base de Dynamics 365 Project Operations
 ========================
 
-## Labo pratique 5.1 : Créer un prospect basé sur un projet
+## <a name="practice-lab-51-create-a-project-based-lead"></a>Labo pratique 5.1 : Créer un prospect basé sur un projet
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -40,7 +45,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 **Service et support :**
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Les vendeurs Entreprise de la société ABC se concentrent sur les clients qui recherchent des solutions d’entreprise plus spécialisées et personnalisées. Pour cette raison, les ventes Entreprise s’étendent généralement sur plusieurs emplacements avec communication liée et requièrent souvent plusieurs ressources pour mener à bien le projet. Les cycles de vente Entreprise de la société ABC peut durer de nombreux mois et exiger l’exécution de plusieurs parties mobiles. 
 
@@ -52,27 +57,27 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 - Entrer un prospect de projet dans Dynamics 365 Sales
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
-## Exercice 1 : Créer un prospect basé sur un projet
+## <a name="exercise-1-create-a-project-based-lead"></a>Exercice 1 : Créer un prospect basé sur un projet
 
-### Tâche 1 : Créer un nouveau prospect
+### <a name="task-1-create-a-new-lead"></a>Tâche 1 : Créer un nouveau prospect
 
-1. Si nécessaire, ouvrez un navigateur InPrivate et accédez à [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Si nécessaire, ouvrez un navigateur non privé et accédez à [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
-2. À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
+2. À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
 
 3. Dans la liste d’applications qui s’affiche, sélectionnez **Project Service**. 
 
 4. Si Project Service n’est pas présent, visitez trials.dynamics.com et installez la version d’essai de Project Service. 
 
-	- Adresse e-mail professionnelle adresse e-mail du client. 
+    - Adresse e-mail professionnelle : adresse e-mail du client. 
 
-	- Numéro de téléphone : téléphone mobile
+    - Numéro de téléphone : téléphone mobile
 
 5. Dans le volet de navigation de gauche, sélectionnez la zone **Ventes**. 
 
@@ -86,39 +91,39 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 10. Complétez votre nouvel enregistrement de prospect comme suit :
 
-	- **Rubrique :** Implémentation globale complète - Vos initiales
+    - **Rubrique :** Implémentation globale complète - Vos initiales
 
-	- **Type :** Basé sur le travail
+    - **Type :** Basé sur le travail
 
-	- **Prénom :** Jean
+    - **Prénom :** Jean
 
-	- **Nom :** Anderson - Vos initiales
+    - **Nom :** Anderson - Vos initiales
 
-	- **Téléphone professionnel :** 888 555-8855
+    - **Téléphone professionnel :** 888 555-8855
 
-	- **E-mail :** jean@sample.com
+    - **E-mail :** jean@sample.com
 
-	- **Société :** Consolidated Sample - Vos initiales
+    - **Société :** Consolidated Sample - Vos initiales
 
-	- **Rue 1 :** 219 91<sup data-htmlnode="">st</sup> Ave N
+    - **Rue 1 :** 219 91<sup data-htmlnode="">st</sup> Ave N
 
-	- **Ville :** Seattle
+    - **Ville :** Seattle
 
-	- **État/province :** WA
+    - **État/province :** WA
 
-	- **Code postal :** 98001 
+    - **Code postal :** 98001 
 
 11. Cliquez sur le bouton **Enregistrer** dans la barre de commandes pour enregistrer le nouveau prospect et laissez-le ouvert.
 
 12. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **Phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
 
-	- **Période d’achat :** Ce trimestre
+    - **Période d’achat :** Ce trimestre
 
-	- **Budget estimé :** 25000  
+    - **Budget estimé :** 25000  
 
-	- **Processus d’achat :** Comité
+    - **Processus d’achat :** Comité
 
-	- **Identifier le décisionnaire :** Terminé
+    - **Identifier le décisionnaire :** Terminé
 
 13. Cliquez sur le symbole **X** dans la fenêtre de la phase pour fermer la fenêtre. 
 
@@ -128,13 +133,13 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 16. Dans l’écran Création rapide d’appel téléphonique, renseignez l’appel téléphonique comme suit :
 
-	- **Objet :** Appel de qualification initial - Vos initiales  
+    - **Objet :** Appel de qualification initial - Vos initiales  
 
-	- **Numéro de téléphone :** 888 555-8855
+    - **Numéro de téléphone :** 888 555-8855
 
-	- **Direction :** Sortant
+    - **Direction :** Sortant
 
-	- **Description :** Conversation initiale avec Jean pour déterminer la qualification initiale. 
+    - **Description :** Conversation initiale avec Jean pour déterminer la qualification initiale. 
 
 17. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -144,7 +149,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
  
 
-### Tâche 2 : Qualifier le prospect et le convertir en une opportunité en vue d’une qualification plus poussée
+### <a name="task-2-qualify-the-lead-and-convert-to-opportunity-for-further-qualification"></a>Tâche 2 : Qualifier le prospect et le convertir en une opportunité en vue d’une qualification plus poussée
 
 1. Dans la **Barre de commandes**, cliquez sur le bouton **Qualifier**. 
 

@@ -1,33 +1,38 @@
 ---
 lab:
-    title: 'Labo 3.2 : Créer et gérer des incidents dans Dynamics 365 Customer Service'
-    module: 'Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'
+  title: 'Labo 3.2 : Créer et gérer des incidents dans Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 246ffc81d2edbffcfc809e242757784acdcccb0d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908913"
 ---
-
-Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 3 : apprendre les notions de base du service clientèle Dynamics 365
 ========================
 
-## Labo pratique 3.2 - Créer et gérer des incidents dans Dynamics 365 Customer Service
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>Labo pratique 3.2 - Créer et gérer des incidents dans Dynamics 365 Customer Service
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
+2. Dans le volet de navigation de gauche, sélectionnez  **Incidents**. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouvel incident** pour créer un nouvel enregistrement d’incident.
 
 4. Complétez votre nouvel enregistrement d’incident comme suit :
 
-	- **Titre de l’incident :** Article arrivé cassé - Vos initiales
+    - **Titre de l’incident :** Article arrivé cassé - Vos initiales
 
-	- **Client :** Alpine Ski House
+    - **Client :** Alpine Ski House
 
-	- **Origine :** Téléphone
+    - **Origine :** Phone
 
 5. Sélectionnez le bouton **Enregistrer** pour enregistrer l’enregistrement et laissez-le ouvert. 
 

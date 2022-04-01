@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Labo 3.3 : Laboratoire Capstone Dynamics 365 Customer Service'
-    module: 'Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'
+  title: 'Labo 3.3 : Laboratoire Capstone Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 85f3778dd9ab66a52bdfe2a5a77ad71ccb55544d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908916"
 ---
-
-Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 3 : apprendre les notions de base du service clientèle Dynamics 365
 ========================
 
-## Labo pratique 3.3 - Laboratoire Capstone Dynamics 365 Customer Service
+## <a name="practice-lab-33---dynamics-365-customer-service-capstone-lab"></a>Labo pratique 3.3 - Laboratoire Capstone Dynamics 365 Customer Service
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -41,7 +46,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Il arrive souvent que les clients rencontrent des problèmes avec leur équipement. Dans ce cas, les problèmes sont signalés au support technique de la société ABC. Les problèmes peuvent être signalés de différentes manières. Dans certains cas, l’équipement peut signaler les problèmes de manière proactive. Lorsque des problèmes sont signalés, les agents tentent de les résoudre à distance. S’ils échouent, un technicien de terrain est dépêché sur place pour résoudre le problème. Vous avez récemment réparé un grand nombre de capteurs qui avaient cessé de fonctionner. Vous avez remarqué que le problème était dû à un bogue logiciel. Vous souhaitez créer un article de Base de connaissances pour que les autres agents puissent s’y référer lorsqu’ils rencontrent le même problème. 
 
@@ -57,19 +62,19 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 - Gestion d’un enregistrement d’incident tout au long de son cycle de vie. 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
-## Exercice 1 : Créer et publier un article de Base de connaissances
+## <a name="exercise-1-create-and-publish-a-knowledge-article"></a>Exercice 1 : Créer et publier un article de Base de connaissances
 
-### Tâche 1 : Créer un article de Base de connaissances
+### <a name="task-1-create-a-knowledge-article"></a>Tâche 1 : Créer un article de Base de connaissances
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances **. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
@@ -83,29 +88,29 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 8. Renseignez l’article comme suit :
 
-	- **Titre :** Capteur hors service - Vos initiales
+    - **Titre :** Capteur hors service - Vos initiales
 
-	- **Mots clés :** Capteur, endommagé, ne fonctionne pas
+    - **Mots clés :** Capteur, endommagé, ne fonctionne pas
 
-	- **Description :** Résoudre les cas de dysfonctionnement d’un capteur. 
+    - **Description :** Résoudre les cas de dysfonctionnement d’un capteur. 
 
 9. Entrez le texte suivant dans le texte du **Concepteur de contenu** :   
 
-	Capteur actuellement hors service
+    Capteur actuellement hors service
 
-	Si un capteur ne fonctionne pas comme prévu, procédez comme suit :
+    Si un capteur ne fonctionne pas comme prévu, procédez comme suit :
 
-	1. Localisez et remplacez les piles de l’appareil. 
+    1. Localisez et remplacez les piles de l’appareil. 
 
-	2. Maintenez le bouton d’alimentation enfoncé pendant 3 secondes. 
+    2. Maintenez le bouton d’alimentation enfoncé pendant 3 secondes. 
 
-	3. L’appareil s’ouvre en mode administrateur. 
+    3. L’appareil s’ouvre en mode administrateur. 
 
-	4. Maintenez le bouton d’appairage enfoncé jusqu’à ce que le voyant passe du rouge au bleu. 
+    4. Maintenez le bouton d’appairage enfoncé jusqu’à ce que le voyant passe du rouge au bleu. 
 
-	5. Appuyez sur le bouton Réinitialiser. 
+    5. Appuyez sur le bouton Réinitialiser. 
 
-	Une fois qu’il aura redémarré, l’appareil sera de nouveau en ligne. 
+    Une fois qu’il aura redémarré, l’appareil sera de nouveau en ligne. 
 
 10. Dans l’éditeur de contenu, sélectionnez le texte Capteur actuellement hors service
 
@@ -123,7 +128,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
  
 
-### Tâche 2 : Gérer un article tout au long du processus d’approbation
+### <a name="task-2-manage-an-article-through-the-approval-process"></a>Tâche 2 : Gérer un article tout au long du processus d’approbation
 
 Dans la plupart des organisations, une fois que l’auteur a créé l’article initial, ce dernier passe généralement par un processus d’approbation avant sa mise en ligne. Cette tâche est généralement effectuée par un individu différent. Dans cette instance, nous allons endosser le rôle d’approbateur. 
 
@@ -168,7 +173,7 @@ Dans la plupart des organisations, une fois que l’auteur a créé l’article 
 20. Il vous sera demandé de confirmer l’approbation de l’article. Cliquez sur **OK**. 
 
 
-### Tâche 3 : Approuver l’article de la Base de connaissances
+### <a name="task-3-approve-the-knowledge-article"></a>Tâche 3 : Approuver l’article de la Base de connaissances
 
 Maintenant que l’article a été approuvé, nous allons le publier pour le mettre à disposition des personnes travaillant sur les incidents. 
 
@@ -184,27 +189,27 @@ Maintenant que l’article a été approuvé, nous allons le publier pour le met
 
 6. Vérifiez que les champs suivants sont sélectionnés :
 
-	- **Publier :** Maintenant
+    - **Publication :** Maintenant
 
-	- **État de publication :** Publié
+    - **État de publication :** Publié
 
-	- **Date d’expiration :** Une année à compter de ce jour à 00h00
+    - **Date d’expiration :** Une année à compter de ce jour à 00h00
 
-	- **État d’expiration :** Expiré
+    - **État d’expiration :** Expiré
 
-	- **Statut d’expiration :** Expiré
+    - **Statut d’expiration :** Expiré
 
 7. Sélectionnez le bouton **Publier** pour publier l’article.
 
 
-## Exercice 2 : Gérer un incident de support tout au long de son cycle de vie
+## <a name="exercise-2-manage-a-support-case-through-its-lifecycle"></a>Exercice 2 : Gérer un incident de support tout au long de son cycle de vie
 
 
-### Tâche 1 : Créer et gérer un incident
+### <a name="task-1-create-and-manage-a-case"></a>Tâche 1 : Créer et gérer un incident
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Tableaux de bord**. Le tableau de bord de **niveau 1** s’ouvre. 
+2. Dans le volet de navigation de gauche, sélectionnez  **Tableaux de bord**. Le tableau de bord de **niveau 1** s’ouvre. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Afficher le filtre visuel**.
 
@@ -217,19 +222,19 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
  
 
-10. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
+10. Dans le volet de navigation de gauche, sélectionnez  **Incidents**. 
 
 11. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 
 12. Complétez votre nouvel enregistrement d’incident comme suit :
 
-	- **Titre de l’incident :** Capteur hors service - Vos initiales
+    - **Titre de l’incident :** Capteur hors service - Vos initiales
 
-	- **Client :** Piper Smith
+    - **Client :** Piper Smith
 
-	- **Origine :** Téléphone
+    - **Origine :** Phone
 
-	- **Description :** Piper signale que l’un des capteurs reçus ne fonctionne pas correctement. 
+    - **Description :** Piper signale que l’un des capteurs reçus ne fonctionne pas correctement. 
 
 13. Sélectionnez le bouton **Enregistrer** pour enregistrer l’enregistrement et laissez-le ouvert. 
 
@@ -239,13 +244,13 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 16. Dans le formulaire **Création rapide : Appel téléphonique**, remplissez l’activité comme suit :
 
-	- **Objet :** Retourner l’appel de Piper
+    - **Objet :** Retourner l’appel de Piper
 
-	- **Direction :** Sortant
+    - **Direction :** Sortant
 
-	- **Numéro de téléphone :**  888 555-1762
+    - **Numéro de téléphone :**  888 555-1762
 
-	- **Durée :** 15 minutes.
+    - **Durée :** 15 minutes.
 
 17. Sélectionnez le bouton **Enregistrer et fermer**. 
 
@@ -261,11 +266,11 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 23. Dans le formulaire **Création rapide : Appel téléphonique**, remplissez l’activité comme suit :
 
-	- **Objet :** Mener des recherches sur le problème de Piper
+    - **Objet :** Mener des recherches sur le problème de Piper
 
-	- **Description :** Exploiter la Base de connaissances pour résoudre le problème de Piper. 
+    - **Description :** Exploiter la Base de connaissances pour résoudre le problème de Piper. 
 
-	- **Durée :** 30 minutes.
+    - **Durée :** 30 minutes.
 
 24. Sélectionnez le bouton **Enregistrer et fermer**. 
 
@@ -279,15 +284,15 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
  
 
-### Tâche 2 : Fermer l’incident
+### <a name="task-2-close-the-case"></a>Tâche 2 : Fermer l’incident
 
 Maintenant que nous avons identifié une solution pour le problème du client, nous sommes prêts à résoudre l’incident. La première étape de clôture d’un incident consiste à fermer toutes les activités ouvertes qui y étaient associées. 
 
-1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment **.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 2. Dans l’écran **Fermer la tâche**, vérifiez que l’état est défini sur Terminé et sélectionnez le bouton **Fermer**. Le statut de la tâche devrait indiquer **Fermé**. 
 
-3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment **.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 4. Dans l’écran **Fermer un appel téléphonique**, vérifiez que l’**État** est défini sur **Terminé** et que le **Statut** est **Effectué**. Sélectionnez le bouton **Fermer**. Vérifiez que l’activité s’affiche comme fermée dans la Chronologie. 
 

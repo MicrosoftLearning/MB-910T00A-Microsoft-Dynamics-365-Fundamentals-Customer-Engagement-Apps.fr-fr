@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Labo 1.3 : Gérer les clients et les activités'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: 'Labo 1.3 : Gérer les clients et les activités'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: f35d4d7adec885e3ba5b9e3ba67937f44666cd72
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908844"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.3 - Gérer les clients et les activités
+## <a name="practice-lab-13---manage-customers-and-activities"></a>Labo pratique 1.3 - Gérer les clients et les activités
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
-La définition et l’utilisation d’enregistrements de compte et de contact dans les applications Dynamics 365 est l’une des activités les plus courantes que vous allez effectuer. Une fois que les comptes et les contacts sont créés, les activités telles que les appels téléphoniques, les tâches et les rendez-vous représenteront vos interactions avec vos clients.
+La définition et l’utilisation des enregistrements de compte et de contact dans les applications Dynamics 365 est l’une des activités les plus courantes que vous allez effectuer. Une fois les comptes et les contacts créés, les activités telles que les appels téléphoniques, les tâches et les rendez-vous représenteront les interactions que vous avez avec vos clients.
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée**: 15 minutes
+  - **Durée estimée** : 15 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 Dans cet exercice, vous allez travailler avec des enregistrements communs qui sont utilisés par toutes les applications d’engagement client Dynamics 365. 
 
@@ -29,17 +34,17 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 4. Remplissez l’enregistrement de compte comme suit :
 
-	- **Nom du compte :** Contoso Corporate - Vos initiales
+    - **Nom du compte :** Contoso Corporate - Vos initiales
 
-	- **Téléphone :** 888-555-1234
+    - **Téléphone :** 888-555-1234
 
-	- **Adresse 1 Rue 1 :** 191 181st Ave N
+    - **Adresse 1 - Rue 1 :** 191 181st Ave N
 
-	- **Adresse 1 Ville :** Seattle
+    - **Adresse 1 Ville :** Seattle
 
-	- **Adresse 1 État/Province :** WA
+    - **Adresse 1 État/Province :** WA
 
-	- **Adresse 1 Code postal :** 98101
+    - **Adresse 1 Code postal :** 98101
 
 5. Dans la Barre de commandes, sélectionnez le bouton **Enregistrer et fermer** pour enregistrer et quitter l’enregistrement de compte.
 
@@ -47,17 +52,17 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 7. Remplissez l’enregistrement de compte comme suit :
 
-	- **Nom du compte :** Contoso North America - Vos initiales
+    - **Nom du compte :** Contoso North America - Vos initiales
 
-	- **Téléphone :** 888-555-4321
+    - **Téléphone :** 888-555-4321
 
-	- **Adresse 1 - Rue 1 :** 187 11th ST N
+    - **Adresse 1 - Rue 1** : 187 11th ST N
 
-	- **Adresse 1 Ville :** Chicago
+    - **Adresse 1 Ville :** Chicago
 
-	- **Adresse 1 État/Province :** IL
+    - **Adresse 1 État/Province :** IL
 
-	- **Adresse 1 Code postal :** 60176
+    - **Adresse 1 Code postal :** 60176
 
 8. Définissez le champ **Compte parent** sur le compte **Contoso Corporate** que vous avez créé précédemment. 
 
@@ -69,13 +74,13 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 12. À l’aide du formulaire **Création rapide de contact**, renseignez le contact comme suit :
 
-	- **Prénom :** Jackson
+    - **Prénom :** Jackson
 
-	- **Nom :** Anderson - Vos initiales
+    - **Nom :** Anderson - Vos initiales
 
-	- **Fonction :** PDG
+    - **Fonction :** PDG
 
-	- **E-mail :** Jackson@contososample.com
+    - **E-mail :** Jackson@contososample.com
 
 13. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -87,11 +92,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 17. Renseignez le rendez-vous comme suit :
 
-	- **Objet :** Réunion avec Jackson
+    - **Objet :** Réunion avec Jackson
 
-	- **Heure de début :** Aujourd’hui à 15h00
+    - **Heure de début :** Aujourd’hui à 15h00
 
-	- **Heure de fin :** Aujourd’hui à 16:00
+    - **Heure de fin :** Aujourd’hui à 16h00
 
 18. Sélectionnez le bouton **Enregistrer et fermer**. 
 

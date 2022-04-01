@@ -1,17 +1,22 @@
 ---
 lab:
-    title: 'Labo 1.7 : Laboratoire Capstone Dynamics 365 Marketing'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: 'Labo 1.7 : Laboratoire Capstone Dynamics 365 Marketing'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: d61461c69044ff558890f6f95990c705863e646d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908895"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.7 - Laboratoire Capstone Dynamics 365 Marketing
+## <a name="practice-lab-17---dynamics-365-marketing-capstone-lab"></a>Labo pratique 1.7 - Laboratoire Capstone Dynamics 365 Marketing
 
 **Remarque :** Les courriers électroniques de marketing ne peuvent pas être créés ou modifiés dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
 
-## Scénario de laboratoire
+## <a name="lab-scenario"></a>Scénario de laboratoire
 
 La société ABC est spécialisée dans la fabrication, la vente, l’installation et le dépannage d’équipements de sécurité. Ses produits incluent des caméras de sécurité à la fois d’intérieur et d’extérieur, des détecteurs d’humidité et d’incendie, des services de surveillance, etc. 
 
@@ -43,7 +48,7 @@ Le processus d’installation pour les équipements de sécurité achetés varie
 
 Une fois les systèmes installés, la société ABC assure le support après-vente. Un client qui rencontre un problème peut contacter le support clients. Un agent tente de travailler avec le client à distance pour résoudre son problème. Si le problème ne peut pas être résolu à distance, l’agent de support peut réaffecter le problème vers un ordre de travail qui sera planifié et exécuté par un technicien de terrain qualifié. 
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 La société ABC commercialise ses offres auprès des clients résidentiels directement via des campagnes marketing ciblées. Les clients sont ciblés en fonction de leur ville et autres facteurs. Les supports marketing sont envoyés par courrier électronique et sont routés en fonction de l’interaction des clients avec le courrier électronique. 
 
@@ -57,13 +62,13 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 - Créer un parcours du client qui exploite votre courrier électronique de marketing et votre segment client. 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
-## Exercice 1 : Créer un courrier électronique de marketing
+## <a name="exercise-1-create-a-marketing-email"></a>Exercice 1 : Créer un courrier électronique de marketing
 
 1. Si nécessaire, ouvrez l’application Dynamics 365 Marketing. 
 
@@ -115,33 +120,33 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 25. Après vous être assuré qu’il n’y a pas d’erreur, dans la **Barre de commandes**, sélectionnez **Mise en service**. 
 
-26. Sélectionnez la flèche déroulante à côté du bouton **Enregistrer** dans la barre de commandes et sélectionnez **Enregistrer et fermer**. 
+26. Sélectionnez la flèche déroulante à côté du bouton **Enregistrer**  dans la barre de commandes et sélectionnez **Enregistrer et fermer**. 
 
 27. Si vous avez utilisé la même adresse e-mail pour les deux contacts, vous recevrez une alerte **Enregistrements en double détectés**. Choisissez **Ignorer et enregistrer**.
 
-## Exercice 2 : Créer un segment dans Dynamics 365 Marketing
+## <a name="exercise-2-create-a-segment-in-dynamics-365-marketing"></a>Exercice 2 : Créer un segment dans Dynamics 365 Marketing
 
-### Tâche 1 : Ajouter des exemples de contacts à utiliser 
+### <a name="task-1-add-some-sample-contacts-to-work-with"></a>Tâche 1 : Ajouter des exemples de contacts à utiliser 
 
 1. Dans le volet de navigation de gauche, sélectionnez Contacts sous Groupe de clients
 
-2. Sélectionnez **Nouveau** dans la barre de commandes.
+2. Dans la barre de commandes, sélectionnez **Nouveau**.
 
 3. Remplissez la page **Nouveau contact** comme suit.
 
-	- **Prénom** : Piper 
+    - **Prénom** : Piper 
 
-	- **Nom** : Smith - Vos initiales
+    - **Nom** : Smith - Vos initiales
 
-	- **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+    - **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
-	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Adresse 1 - Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville** : Seattle
+    - **Adresse 1 : Ville** : Seattle
 
-	- **Adresse 1 État :** WA
+    - **Adresse 1 État :** WA
 
-	- **Adresse 1 Code postal :** 98001
+    - **Adresse 1 Code postal :** 98001
 
 4. Une fois que vous avez fini de remplir la page du contact, sélectionnez **Enregistrer et fermer**.
 
@@ -151,29 +156,29 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 7. Remplissez la page du second contact comme suit :
 
-	- **Prénom** : Votre prénom
+    - **Prénom** : Votre prénom
 
-	- **Nom** : Votre adresse e-mail
+    - **Nom** : Votre adresse e-mail
 
-	- **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+    - **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
-	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Adresse 1 - Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville** : Seattle
+    - **Adresse 1 : Ville** : Seattle
 
-	- **Adresse 1 État :** WA
+    - **Adresse 1 État :** WA
 
-	- **Adresse 1 Code postal :** 98001
+    - **Adresse 1 Code postal :** 98001
 
 **REMARQUE :** Nous utilisons les mêmes informations d’adresse pour faciliter l’identification des contacts en tant qu’exemples de données. 
 
-### Tâche 2 : Créer un segment client
+### <a name="task-2-create-a-customer-segment"></a>Tâche 2 : Créer un segment client
 
 La création d’un segment client définit les clients que vous souhaitez cibler dans différentes actions marketing. 
 
 1. Dans le volet de navigation de gauche, sélectionnez **Segments** sous le groupe **Clients**. 
 
-2. Sélectionnez **Nouveau** dans la barre de commandes.
+2. Dans la barre de commandes, sélectionnez **Nouveau**.
 
 3. Puisque nous devions modifier les membres à mesure que les contacts sont ajoutés, supprimés ou modifiés, nous allons sélectionner **Nouveau segment dynamique** dans le menu qui s’affiche. 
 
@@ -203,29 +208,29 @@ La création d’un segment client définit les clients que vous souhaitez cible
 
 16. Vous devriez maintenant voir qu’un onglet **Membres** a été ajouté.
 
-### Tâche 3 : Tester votre segment client
+### <a name="task-3-test-your-customer-segment"></a>Tâche 3 : Tester votre segment client
 
 Maintenant que nous avons créé votre segment, vérifions que le segment dynamique se remplit correctement à mesure que les contacts sont ajoutés ou supprimés. Pour cela, nous allons créer un nouveau contact qui vit à Seattle. 
 
 1. Dans le volet de navigation de gauche, sélectionnez **Contacts** sous Groupe de clients
 
-2. Sélectionnez **Nouveau** dans la barre de commandes.
+2. Dans la barre de commandes, sélectionnez **Nouveau**.
 
 3. Remplissez la page **Nouveau contact** comme suit.
 
-	- **Prénom** : Rick
+    - **Prénom** : Rick
 
-	- **Nom** : Jones - Vos initiales
+    - **Nom** : Jones - Vos initiales
 
-	- **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+    - **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
-	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Adresse 1 - Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville** : Seattle
+    - **Adresse 1 : Ville** : Seattle
 
-	- **Adresse 1 État :** WA
+    - **Adresse 1 État :** WA
 
-	- **Adresse 1 Code postal :** 98001
+    - **Adresse 1 Code postal :** 98001
 
 4. Une fois que vous avez fini de remplir la page du contact, sélectionnez **Enregistrer et fermer**.
 
@@ -237,7 +242,7 @@ Maintenant que nous avons créé votre segment, vérifions que le segment dynami
 
 **IMPORTANT :** Étant donné que nous travaillons dans un environnement partagé et que tout le monde utilise le même système, il est probable que vous verrez également les autres Contacts dans le segment Marketing dynamique. Cela ne présente aucun problème dans l’objectif de ce cours. 
 
-## Exercice 3 : Créer un parcours du client
+## <a name="exercise-3-create-a-customer-journey"></a>Exercice 3 : Créer un parcours du client
 
 Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer et définir un segment de clients à cibler, nous sommes prêts à créer un parcours du client pour cibler les clients. 
 
@@ -265,19 +270,19 @@ Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer
 
 12. Sélectionnez le champ **Sélectionner une condition**. Choisissez **un lien a fait l’objet d’un clic**.
 
-13. Dans le chemin **Oui**, sélectionnez le signe **+**. Dans le menu qui s’affiche, sélectionnez **Créer un prospect**.
+13. Dans le chemin **Oui**, sélectionnez le signe **+** . Dans le menu qui s’affiche, sélectionnez **Créer un prospect**.
 
 14. Ne modifiez pas et n’ajoutez rien dans le chemin **Non**. 
 
 15. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom** : Promotion d’automne Région de Seattle - Vos initiales
+    - **Nom** : Promotion d’automne Région de Seattle - Vos initiales
 
-	- **Date et heure de début** : Entrez la date d’aujourd’hui
+    - **Date et heure de début** : Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin** : Un mois à compter d’aujourd’hui
+    - **Date et heure de fin** : Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
+    - **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
 
 16. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

@@ -1,28 +1,33 @@
 ---
 lab:
-    title: 'Labo 1.5 : Créer un segment dans Dynamics 365 Marketing'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: 'Labo 1.5 : Créer un segment dans Dynamics 365 Marketing'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 5f75e433fe8d38d32000c7de20878e3b471f0fca
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908859"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.5 - Créer un segment dans Dynamics 365 Marketing
+## <a name="practice-lab-15---create-a-segment-in-dynamics-365-marketing"></a>Labo pratique 1.5 - Créer un segment dans Dynamics 365 Marketing
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Lors de cet exercice, vous constaterez qu’il est très facile de créer des segments client qui ciblent des contacts spécifiques en fonction d’informations démographiques communes telles que leur lieu de résidence ou leurs centres d’intérêt. La création de segments client dans Dynamics 365 Marketing est extrêmement courante, car ils sont utilisés pour des activités marketing clés telles que la définition des contacts cibles dans les parcours du client.
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée**: 20 minutes
+  - **Durée estimée** : 20 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 
 1. Ouvrez l’application Dynamics Marketing. La zone **Marketing** devrait être sélectionnée. Sélectionnez **Segments** sous **Clients**.
 
-2. Sélectionnez **Nouveau** dans la barre de commandes.
+2. Dans la barre de commandes, sélectionnez **Nouveau**.
 
 3. Dans le menu déroulant qui apparaît, sélectionnez **Nouveau segment dynamique**.
 

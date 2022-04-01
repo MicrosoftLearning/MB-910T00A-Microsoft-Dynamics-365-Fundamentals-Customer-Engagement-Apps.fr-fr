@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Labo 1.6 : Créer un parcours du client simple'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: 'Labo 1.6 : Créer un parcours du client simple'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 3ab6783be7050e95a06ffda711017e0ca455125a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908856"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.6 - Créer un parcours du client simple
+## <a name="practice-lab-16---create-a-simple-customer-journey"></a>Labo pratique 1.6 - Créer un parcours du client simple
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Durant cet exercice, vous constaterez que les parcours des clients sont un composant clé de Dynamics 365 Marketing. Vous allez créer des parcours du client comme base de tout effort marketing. Leur but est de guider le chemin emprunté par un client lors de ses interactions avec le processus marketing de votre organisation. Le but du parcours, une fois terminé, est de le transformer en revenus.
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 **Remarque :** Les courriers électroniques de marketing ne peuvent pas être créés ou modifiés dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
 
@@ -37,7 +42,7 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 7. La page **Nouveau parcours du client** s’ouvre et la boîte de dialogue **Sélectionnez un modèle de parcours du client** s’affiche. Sélectionnez **Ignorer** pour démarrer la création du parcours à partir de zéro.
 
-8. Sélectionnez **Définir l’audience** (ou sinon, sélectionnez **+**). Sélectionnez le segment Chicago Customers que vous avez créé dans l’exercice précédent. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
+8. Sélectionnez **Définir l’audience** (ou sinon, sélectionnez **+** ). Sélectionnez le segment Chicago Customers que vous avez créé dans l’exercice précédent. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
 
 9. Sélectionnez le couloir **+** dans Chicago Contacts, puis sélectionnez **Envoyer un e-mail** dans le menu contextuel.
 
@@ -45,13 +50,13 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 11. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom** : Parcours du client Chicago
+    - **Nom** : Parcours du client Chicago
 
-	- **Date et heure de début** : Entrez la date d’aujourd’hui
+    - **Date et heure de début** : Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin** : Un mois à compter d’aujourd’hui
+    - **Date et heure de fin** : Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
+    - **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
 
 12. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

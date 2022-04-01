@@ -1,19 +1,24 @@
 ---
 lab:
-    title: 'Labo 4.1 : Créer des ordres de travail dans Dynamics 365 Field Service'
-    module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service'
+  title: 'Labo 4.1 : Créer des ordres de travail dans Dynamics 365 Field Service'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: 4173622112383ec7ac6cdf733ec9f929a79453ff
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908865"
 ---
-
-Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Module 4 : apprendre les notions de base de Dynamics 365 Field Service
 ========================
 
-## Labo 4.1 - Créer des ordres de travail dans Dynamics 365 Field Service
+## <a name="practice-lab-41---creating-work-orders-in-dynamics-365-field-service"></a>Labo 4.1 - Créer des ordres de travail dans Dynamics 365 Field Service
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 1. Dans le volet de navigation de gauche, sélectionnez **Ordres de travail**.
 
@@ -21,13 +26,13 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 3. Renseignez les détails de l’ordre de travail comme suit :
 
-	- **Compte de service :** Adventure Works Cycles
+    - **Compte de service :** Adventure Works Cycles
 
-	- **Type d’ordre de travail** : Service (créer un nouveau)
+    - **Type d’ordre de travail** : Service (créer un nouveau)
 
-	- **Tarifs :** CRM Service USA (exemple)
+    - **Liste de prix :** CRM Service USA (exemple)
 
-	- **Imposable :** Non
+    - **Imposable :** Non
 
 4. Enregistrez l’ordre de travail.
 
@@ -37,9 +42,9 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 6. Sous **Préférences**, configurez les préférences temporelles comme suit :
 
-	- **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
+    - **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
 
-	- **Temps jusqu’à la promesse :** Aujourd’hui à 11:00
+    - **Temps jusqu’à la promesse :** Aujourd'hui à 11:00
 
 7. Sélectionnez **Enregistrer**.
 

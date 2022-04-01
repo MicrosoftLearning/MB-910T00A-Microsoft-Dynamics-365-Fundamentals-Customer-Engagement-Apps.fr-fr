@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Labo 1.4 : Rechercher et filtrer les données'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: Labo 1.4 Rechercher et filtrer les données
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 523e40bcfed281ae3f86ed21428163f603cc7f2d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908871"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.4 - Rechercher et filtrer les données
+## <a name="practice-lab-14---search-and-filter-data"></a>Labo pratique 1.4 - Rechercher et filtrer les données
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 La localisation des données dans l’application est une tâche quasiment quotidienne. Plus vous serez efficace dans la recherche et la localisation, plus vous serez rapide à traiter les demandes des clients et à naviguer dans l’application en général.  Ce labo vous guide tout au long du processus.
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée**: 15 minutes
+  - **Durée estimée** : 15 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 Dans cet exercice, vous allez utiliser les fonctionnalités de recherche et de filtrage de Dynamics 365 pour localiser et utiliser différents enregistrements. 
 
@@ -47,11 +52,11 @@ Dans cet exercice, vous allez utiliser les fonctionnalités de recherche et de f
 
 13. Remplissez le formulaire **Création rapide de tâche** comme suit :
 
-	- **Objet :** Envoi de supports marketing - Vos initiales
+    - **Objet :** Envoi de supports marketing - Vos initiales
 
-	- **Échéance :** Demain à 8h30
+    - **Échéance :** Demain à 8h30
 
-	- **Priorité :** Élevée
+    - **Priority :** Élevé
 
 14. Sélectionnez le bouton **Enregistrer et fermer**.
 

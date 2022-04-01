@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Labo 3.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
-    module: 'Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'
+  title: 'Labo 3.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908910"
 ---
-
-Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 3 : apprendre les notions de base du service clientèle Dynamics 365
 ========================
 
-## Labo pratique 3.1 - Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service
+## <a name="practice-lab-31---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Labo pratique 3.1 - Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée** : 15 minutes
+  - **Durée estimée** : 15 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Articles de la Base de connaissances**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
@@ -33,27 +38,27 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 8. Renseignez l’article comme suit :
 
-	- **Titre :** Article arrivé cassé - Vos initiales
+    - **Titre :** Article arrivé cassé - Vos initiales
 
-	- **Mots clés :** Article cassé, endommagé, retour
+    - **Mots clés :** Article cassé, endommagé, retour
 
-	- **Description :** Résoudre les problèmes si un article arrive endommagé. 
+    - **Description :** Résoudre les problèmes si un article arrive endommagé. 
 
 9. Entrez le texte suivant dans le texte du Concepteur de contenu.   
 ‎  
-‎	Article arrivé endommagé
+‎   Article arrivé endommagé
 
-	Lorsqu’un article arrive endommagé, procédez comme suit :
+    Lorsqu’un article arrive endommagé, procédez comme suit :
 
-	1. Ouvrez notre portail web
+    1. Ouvrez notre portail web
 
-	2. Localisez votre enregistrement de commande
+    2. Localisez votre enregistrement de commande
 
-	3. Sélectionnez Retourner un article
+    3. Sélectionnez Retourner un article
 
-	4. Sélectionnez Endommagé comme raison
+    4. Sélectionnez Endommagé comme raison
 
-	5. Sélectionner Imprimer
+    5. Sélectionner Imprimer
 
 Une fois que nous aurons reçu l’article retourné/endommagé, votre compte sera recrédité du montant.
 
@@ -99,16 +104,16 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
 28. Vérifiez que les champs suivants sont sélectionnés :
 
-	- **Publier :** Maintenant
+    - **Publication :** Maintenant
 
-	- **État de publication :** Publié
+    - **État de publication :** Publié
 
-	- **Date d’expiration :** Une année à compter de ce jour à 00h00
+    - **Date d’expiration :** Une année à compter de ce jour à 00h00
 
-	- **État d’expiration :** Expiré
+    - **État d’expiration :** Expiré
 
-	- **Statut d’expiration :** Expiré
+    - **Statut d’expiration :** Expiré
 
-	- **Publier les traductions approuvées :** Non
+    - **Publier les traductions approuvées :** Non
 
 

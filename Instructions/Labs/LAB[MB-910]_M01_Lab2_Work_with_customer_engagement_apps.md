@@ -1,34 +1,39 @@
 ---
 lab:
-    title: 'Labo 1.2 : Utilisation des applications Customer Engagement'
-    module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
+  title: 'Labo 1.2 : Utilisation des applications Customer Engagement'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 4d860bc97fbea8a26911259cb11c1070561efd0c
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908862"
 ---
-
-Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 1 : apprendre les notions de base de Dynamics 365 Marketing
 ========================
 
-## Labo pratique 1.2 - Utilisation des applications Customer Engagement 
+## <a name="practice-lab-12---work-with-customer-engagement-apps"></a>Labo pratique 1.2 - Utilisation des applications Customer Engagement 
 
-## Objectifs
+## <a name="objectives"></a>Objectifs
 
 Au cours de cet exercice, vous allez constater qu’il est très facile d’accéder aux différentes applications Dynamics 365 disponibles directement depuis l’écran d’accueil. Une fois que vous avez ouvert une application, vous pouvez facilement basculer entre les différentes applications selon vos besoins. En tant qu’utilisateur, vous serez amené à accéder aux fonctionnalités de base des applications Dynamics 365 et à les utiliser quotidiennement.
 
 
-## Configuration du labo
+## <a name="lab-setup"></a>Mise en place du labo
 
-  - **Durée estimée**: 15 minutes
+  - **Durée estimée** : 15 minutes
 
-## Instructions
+## <a name="instructions"></a>Instructions
 
 Dans cet exercice, vous allez vous familiariser avec les modalités d’accès aux différentes applications Dynamics 365 Customer Engagement en utilisant l’écran Page d’accueil Dynamics 365. 
 
-1.	Dans un navigateur web, accédez à https://www.office.com/apps. 
+1.  Dans un navigateur web, accédez à https://www.office.com/apps. 
 
-2.	Cliquez sur l'onglet Applis métier.  
+2.  Cliquez sur l'onglet Applis métier.  
 
-3.	Dans la zone de recherche, entrez le texte Centre des ventes et sélectionnez l'application Centre des ventes pour l’ouvrir.  
+3.  Dans la zone de recherche, entrez le texte Centre des ventes et sélectionnez l'application Centre des ventes pour l’ouvrir.  
 
-4. Lorsque vous êtes dans une application, vous pouvez travailler avec différentes zones selon les tâches à effectuer. Par exemple, l’application Centre des ventes contient différents paramètres administratifs que vous pouvez utiliser. 
+4. Lorsque vous vous trouvez dans une application, vous pouvez utiliser différentes zones en fonction de ce que vous essayez de faire. Par exemple, l’application Centre des ventes contient différents paramètres d’administration que vous pouvez utiliser. 
 
 5. Sur le côté inférieur gauche du volet de navigation, sélectionnez **Ventes** et passez à la zone **Paramètres de l’application**. Explorez les paramètres de l’application.
 
