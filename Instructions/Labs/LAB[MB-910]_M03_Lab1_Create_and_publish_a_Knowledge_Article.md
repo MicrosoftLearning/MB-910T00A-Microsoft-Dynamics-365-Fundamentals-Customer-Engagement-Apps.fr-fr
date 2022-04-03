@@ -2,12 +2,12 @@
 lab:
   title: 'Labo 3.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908910"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141141999"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 3 : apprendre les notions de base du service clientèle Dynamics 365
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137908910"
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
-4. Sélectionnez la vue **Brouillons d’article**. 
+4. Sélectionnez **Brouillons d’article**. Vous verrez probablement deux articles en mode brouillon.
 
-5. Sélectionnez **Articles approuvés**. 
+5. Sélectionnez **Articles approuvés**. Vous devriez voir au moins un article approuvé.  
 
 6. Revenez à **Mes articles actifs**
 
@@ -60,9 +60,9 @@ ms.locfileid: "137908910"
 
     5. Sélectionner Imprimer
 
-Une fois que nous aurons reçu l’article retourné/endommagé, votre compte sera recrédité du montant.
+    Une fois que nous aurons reçu l’article retourné/endommagé, votre compte sera recrédité du montant.
 
-**REMARQUE :** Vous pouvez ajouter le formatage souhaité au texte. 
+    **REMARQUE :** Vous pouvez ajouter le formatage souhaité au texte. 
 
 10. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer** pour enregistrer l’article de la Base de connaissances et laissez-le ouvert. 
 
@@ -115,5 +115,7 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
     - **Statut d’expiration :** Expiré
 
     - **Publier les traductions approuvées :** Non
+    
+29. Cliquez sur le bouton **Publier** pour publier l’article.
 
 
