@@ -2,12 +2,12 @@
 lab:
   title: 'Labo 2.1 : Créer un segment dans Dynamics 365 Marketing'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404958"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855071"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
 ========================
@@ -41,7 +41,7 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 
 8. Sélectionnez la troisième liste déroulante qui contient le texte fantôme **Entrer du texte** et saisissez **Redmond**.
 
-9. Cliquez pour sélectionnez le champ **Nom** en haut de la requête et entrez **Contacts Redmond**.
+9. Cliquez pour sélectionner le champ **Nom** en haut de la requête et entrez **Contacts Redmond**.
 
 10. Sélectionnez **Enregistrer** dans la barre de commandes pour enregistrer le segment.
 

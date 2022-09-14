@@ -2,17 +2,17 @@
 lab:
   title: 'Labo 4.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 076c92c7a9b1843a0e0e4b7a03a725cfc3b1d43b
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404971"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855082"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 4 : Exposer les principes fondamentaux de Dynamics 365 Customer Service
 ========================
 
-## <a name="practice-lab-41---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Labo pratique 4.1 - Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service
+## <a name="practice-lab-41---create-and-publish-a-knowledge-article-in-dynamics-365-customer-service"></a>Labo pratique 4.1 - Créer et publier un article de la base de connaissances dans Dynamics 365 Customer Service
 
 ## <a name="lab-setup"></a>Mise en place du labo
 
@@ -36,7 +36,7 @@ ms.locfileid: "144404971"
 
 8. Une fois que le nouvel enregistrement est ouvert, sélectionnez la flèche déroulante à côté du champ **Raison de l’état** dans l’en-tête de l’enregistrement en haut. Définissez **Langue** sur **Français - France**.
 
-8. Renseignez l’article comme suit :
+9. Renseignez l’article comme suit :
 
     - **Titre :** Article arrivé cassé - Vos initiales
 
@@ -44,7 +44,7 @@ ms.locfileid: "144404971"
 
     - **Description :** Résoudre les problèmes si un article arrive endommagé. 
 
-9. Entrez le texte suivant dans le texte du Concepteur de contenu.   
+10. Entrez le texte suivant dans le texte du Concepteur de contenu.   
 ‎  
 ‎   Article arrivé endommagé
 
@@ -64,45 +64,45 @@ ms.locfileid: "144404971"
 
     **REMARQUE :** Vous pouvez ajouter le formatage souhaité au texte. 
 
-10. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer** pour enregistrer l’article de la Base de connaissances et laissez-le ouvert. 
+11. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer** pour enregistrer l’article de la Base de connaissances et laissez-le ouvert. 
 
-11. Dans **Nouveau processus**, sélectionnez la phase **Auteur**, définissez le champ **Sujet de l’article** sur **Livraison** (sous Service). 
+12. Dans **Nouveau processus**, sélectionnez la phase **Auteur**, définissez le champ **Sujet de l’article** sur **Livraison** (sous Service). 
 
-12. Définissez le champ **Marquer pour révision** sur **Terminé**.
+13. Définissez le champ **Marquer pour révision** sur **Terminé**.
 
-13. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Réviser**.
+14. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Réviser**.
 
-14. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer** pour enregistrer et fermer l’article.
+15. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer** pour enregistrer et fermer l’article.
 
 Une fois que l’auteur a créé l’article initial, ce dernier passe généralement par un processus d’approbation avant sa mise en ligne. Nous allons ensuite endosser le rôle d’approbateur et approuver l’article. 
 
-15. Dans les articles de la Base de connaissances, basculez sur la vue **Articles proposés** pour voir les articles qui ont besoin de votre approbation. 
+16. Dans les articles de la Base de connaissances, basculez sur la vue **Articles proposés** pour voir les articles qui ont besoin de votre approbation. 
 
-16. Ouvrez l’article **Article arrivé cassé - Vos initiales** que vous venez de créer.
+17. Ouvrez l’article **Article arrivé cassé - Vos initiales** que vous venez de créer.
 
-17. Dans **Nouveau processus**, sélectionnez la phase **Réviser**. Définissez le champ **Réviser** sur **Approuvé**.
+18. Dans **Nouveau processus**, sélectionnez la phase **Réviser**. Définissez le champ **Réviser** sur **Approuvé**.
 
-18. Il vous sera demandé de confirmer l’approbation de l’article. Cliquez sur **OK**. 
+19. Il vous sera demandé de confirmer l’approbation de l’article. Cliquez sur **OK**. 
 
-19. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
+20. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
 
-20. Dans la **Barre de commandes** en haut de l’article, sélectionnez les **trois points verticaux** à gauche de la barre de commandes. Dans le menu qui s’affiche, sélectionnez **Associer un produit**. 
+21. Dans la **Barre de commandes** en haut de l’article, sélectionnez les **trois points verticaux** à gauche de la barre de commandes. Dans le menu qui s’affiche, sélectionnez **Associer un produit**. 
 
-21. Dans la fenêtre **Associer un produit**, sélectionnez **Office 365 pour Entreprise (exemple).**
+22. Dans la fenêtre **Associer un produit**, sélectionnez **Office 365 pour Entreprise (exemple).**
 
-22. Sélectionnez le bouton **Associer**. 
+23. Sélectionnez le bouton **Associer**. 
 
-23. Dans **Nouveau processus**, sélectionnez la phase **Publier**. 
+24. Dans **Nouveau processus**, sélectionnez la phase **Publier**. 
 
-24. Marquez **Définir les associations de produits** comme étant **terminées**. 
+25. Marquez **Définir les associations de produits** comme étant **terminées**. 
 
-25. Définissez la **Date d’expiration** sur **une année à compter de ce jour à 00h00**. 
+26. Définissez la **Date d’expiration** sur **une année à compter de ce jour à 00h00**. 
 
-26. Sélectionnez le bouton **Terminer** pour terminer le processus. 
+27. Sélectionnez le bouton **Terminer** pour terminer le processus. 
 
-27. Dans la **Barre de commandes** de l’article, sélectionnez le bouton **Publier**. 
+28. Dans la **Barre de commandes** de l’article, sélectionnez le bouton **Publier**. 
 
-28. Vérifiez que les champs suivants sont sélectionnés :
+29. Vérifiez que les champs suivants sont sélectionnés :
 
     - **Publication :** Maintenant
 
@@ -116,6 +116,6 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
     - **Publier les traductions approuvées :** Non
     
-29. Cliquez sur le bouton **Publier** pour publier l’article.
+30. Cliquez sur le bouton **Publier** pour publier l’article.
 
 
