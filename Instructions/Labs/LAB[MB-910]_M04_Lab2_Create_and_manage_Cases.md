@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 4.2 : Créer et gérer des incidents dans Dynamics 365 Customer Service'
+  title: "Labo\_4.2\_: Créer et gérer des incidents dans Dynamics\_365 Customer Service"
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2590c7be81b274a95528c4cd61b32be7db3e3548
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404997"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 4 : Exposer les principes fondamentaux de Dynamics 365 Customer Service
 ========================
 
@@ -22,7 +17,7 @@ ms.locfileid: "144404997"
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez  **Incidents**. 
+2. Sélectionnez **Cas** dans la section **Service** du menu de gauche. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouvel incident** pour créer un nouvel enregistrement d’incident.
 
@@ -36,7 +31,7 @@ ms.locfileid: "144404997"
 
 5. Sélectionnez le bouton **Enregistrer** pour enregistrer l’enregistrement et laissez-le ouvert. 
 
-6. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier** et définissez le champ **Trouver un contact** sur **Patrick Sands**. 
+6. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier** et définissez le champ **Trouver un contact** sur **Alfonso Albritton**. 
 
 7. Sélectionnez le symbole **X** dans la fenêtre de la phase **Identifier** pour la fermer et pouvoir continuer à travailler. 
 
@@ -44,7 +39,7 @@ ms.locfileid: "144404997"
 
 9. Dans le menu qui apparaît, sélectionnez **Appel téléphonique**.
 
-10. Définissez le champ **Objet** sur **Retourner l’appel de Patrick - Vos initiales** et laissez les autres champs tels quels. 
+10. Définissez le champ **Objet** sur **Retourner l’appel d’Alfonso - Vos initiales** et laissez les autres champs tels quels. 
 
 11. Sélectionnez le bouton **Enregistrer et fermer**. 
 
@@ -56,20 +51,20 @@ ms.locfileid: "144404997"
 
 15. Sur le côté droit de l’écran des incidents, localisez et sélectionnez l’icône représentant un livre **Base de connaissances**. (Elle se trouve directement sous l’icône de la **clé anglaise**).
 
-16. Notez que le titre de l’incident que vous avez créé est fourni automatiquement en tant que texte de recherche. Localisez et sélectionnez l’article **Article arrivé cassé** que vous avez créé précédemment. 
+16. Notez que le titre de l’incident que vous avez créé est fourni automatiquement en tant que texte de recherche. Localisez et sélectionnez l’article de base de connaissances **Article arrivé cassé** que vous avez créé précédemment. 
 
 17. Le contenu complet de l’article s’affiche. Sélectionnez l’icône **Lier cet article à l’enregistrement actuel**. Vérifiez que le texte **Lié à l’incident** apparaît. 
 
-18. Nous allons maintenant nous préparer à résoudre l’incident. Dans la **Chronologie des enregistrements**, survolez l’activité d’appel téléphonique **Retourner l’appel de Patrick** que vous avez créée précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+18. Nous allons maintenant nous préparer à résoudre l’incident. Dans la **Chronologie des enregistrements**, survolez l’activité d’appel téléphonique **Retourner l’appel d’Alfonso** que vous avez créée précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
-19. Dans l’écran **Fermer l’appel téléphonique**, sélectionnez le bouton **Fermer**. Vérifiez que l’activité indique **Fermé**. 
+19. Dans l’écran **Fermer l’appel téléphonique**, sélectionnez le bouton **Fermer**. Vérifiez que l’activité indique **Fermé**.
 
-20. Dans **Processus téléphone-incident**, sélectionnez la phase **Rechercher** et sélectionnez **Phase suivante** pour passer à la phase **Résoudre**. 
+20. Dans **Processus téléphone-incident**, sélectionnez la phase **Rechercher** et sélectionnez **Phase suivante** pour passer à la phase **Résoudre**.
 
-21. Dans la phase **Résoudre**, sélectionnez le bouton **Terminer** pour terminer le flux du processus. 
+21. Dans la phase **Résoudre**, sélectionnez le bouton **Terminer** pour terminer le flux du processus.
 
 22. Dans la **Barre de commandes** de l’enregistrement d’incident, sélectionnez le bouton **Résoudre l’indicent**.
 
 23. Dans la fenêtre **Résoudre l’incident**, définissez le champ **Résolution** sur **Article de la Base de connaissances**. 
 
-24. Sélectionnez le bouton **Résoudre** pour terminer le processus. 
+24. Sélectionnez le bouton **Résoudre** pour terminer le processus.

@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 1.1 : Utilisation des applications Customer Engagement'
+  title: "Labo\_1.1\_: Utilisation des applications Customer Engagement"
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404964"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Module 1 : Examiner les principales fonctionnalités de Dynamics 365 (CRM)
 ========================
 
@@ -41,9 +36,9 @@ N’hésitez pas à découvrir le centre d’administration Power Platform mais 
 
 2. Sélectionnez l’environnement WWLLABnnn, où nnn est un nombre. Il s’agit de l’environnement Dynamics 365 partagé où vous ferez tous les labos.
 
-3. Cliquer sur Ouvrir l’environnement
+3. Cliquez sur **Ouvrir** dans le menu supérieur ou sur l’URL de l’environnement WWLLABnnn.
 
-4. Développez le bouton domino Lanceur d’applications, en haut à gauche de l’écran, directement à gauche du Centre d’administration Power Platform. Sélectionnez l’application Dynamics 365 Marketing pour la lancer.
+4. Sélectionnez l’application **Marketing** pour la lancer.
 
 5. Examinez le volet de navigation sur le côté gauche. Le bouton en bas du volet vous permet de passer d’une zone à l’autre. Vous consultez actuellement la zone Marketing.
 

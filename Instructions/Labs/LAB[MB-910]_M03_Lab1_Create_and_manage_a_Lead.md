@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 3.1 : Créer et gérer un prospect dans Dynamics 365 Sales'
+  title: "Labo\_3.1\_: Créer et gérer un prospect dans Dynamics\_365\_Sales"
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 750ac8f84444e734bacc52adacb1c9b041959c7f
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404991"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Module 3 : Exposer les principes fondamentaux de Dynamics 365 Sales
 ========================
 
@@ -35,15 +30,15 @@ Au cours de cet exercice, vous allez capturer un prospect pour Suzanne Burke. El
 
     - **Rubrique :** Recherche de nouvel équipement - Vos initiales
 
-    - **Prénom :** Suzanne
+    - **Prénom :** Suzanne – Vos initiales
 
-    - **Nom :** Burke
+    - **Nom :** Burke – Vos initiales
 
     - **Fonction :** Directeur financier
 
     - **Téléphone professionnel :** 888 555-8715
 
-    - **E-mail :** Suzanne@contososample.com
+    - **E-mail :** Suzanne.YourInitials@contososample.com
 
     - **Société :** Contoso - Washington
 

@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 3.2 : Créer et gérer une opportunité dans Dynamics 365 Sales'
+  title: "Labo\_3.2\_: Créer et gérer une opportunité dans Dynamics\_365\_Sales"
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405015"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Module 3 : Exposer les principes fondamentaux de Dynamics 365 Sales
 ========================
 
@@ -71,19 +66,19 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 12. Dans la sous-grille Parties prenantes, notez que Suzanne Burke est déjà définie comme partie prenante. 
 
-13. Dans la sous-grille Équipe de vente, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**. 
+13. Dans la sous-grille Équipe de vente, sélectionnez **Nouvelle connexion**. Remarque : Les sous-grilles sont réactives. S’il n’y a pas suffisamment d’espace à l’écran, le bouton peut se retrouver dans le menu **Points de suspension verticaux**.
 
 14. Recherchez et sélectionnez votre enregistrement utilisateur. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**. 
 
-15. Dans la sous-grille Concurrents, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
+15. Dans la sous-grille Concurrents, sélectionnez **Ajouter un concurrent existant**. Remarque : Les sous-grilles sont réactives. S’il n’y a pas suffisamment d’espace à l’écran, le bouton peut se retrouver dans le menu **Points de suspension verticaux**.
 
 16. Dans l’écran **Rechercher un enregistrement**, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents**.
 
-17. Dans l’écran **Création rapide d’un concurrent**, définissez le champ **Nom** sur **Coho Technologies**.
+17. Dans l’écran **Création rapide d’un concurrent**, définissez le champ **Nom** sur **Coho Technologies - Vos initiales**.
 
 18. Sélectionnez le bouton **Enregistrer et fermer**.
 
-19. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Sélectionnez le bouton **Ajouter** pour finir d’ajouter le concurrent. 
+19. **Coho Technologies - Vos initiales** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Sélectionnez le bouton **Ajouter** pour finir d’ajouter le concurrent. 
 
 20. Sélectionnez la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
 
