@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 2.2 : Créer un parcours du client simple'
+  title: "Labo\_2.2\_: Créer un parcours du client simple"
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404986"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
 ========================
 
@@ -30,11 +25,12 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 1. Si nécessaire, ouvrez l’application Dynamics 365 Marketing. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Courrier électronique de marketing** sous le groupe Exécution marketing
+2. À l’aide de la navigation de gauche, remplacez le domaine par **Marketing sortant** et sélectionnez **E-mails marketing** sous le groupe Exécution marketing.
 
 3. Localisez et ouvrez le courrier électronique de marketing **Introduction to Chairs**.  
 
-4. Dans la **Barre de commandes** en haut, sélectionnez le bouton **Mise en service**. 
+4. Si l’e-mail **Introduction to Chairs** est déjà **Mis en service**, passez à l’étape suivante. 
+   Sinon, dans la **Barre de commandes** en haut, sélectionnez le bouton **Mise en service**. 
 
 5. Maintenant que le courrier électronique est en ligne, utilisez le volet de navigation de gauche pour sélectionner **Parcours du client** dans le groupe Exécution marketing.
 
@@ -50,7 +46,7 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 11. Sélectionnez l’onglet **Général** qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-    - **Nom** : Parcours du client Redmond
+    - **Nom** : Parcours client Redmond - vos initiales
 
     - **Date et heure de début** : Entrez la date d’aujourd’hui
 

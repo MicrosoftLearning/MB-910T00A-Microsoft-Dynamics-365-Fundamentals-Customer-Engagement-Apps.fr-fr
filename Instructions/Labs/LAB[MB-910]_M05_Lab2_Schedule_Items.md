@@ -1,18 +1,13 @@
 ---
 lab:
-  title: 'Labo 4.2 : Planifier des éléments avec Dynamics 365 Field Service'
-  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: ca0728e865cf16478ab84f160cf34538e521c91e
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404992"
+  title: "Labo\_5.2\_: Planifier des éléments dans Dynamics\_365\_Field\_Service"
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
-<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Module 4 : apprendre les notions de base de Dynamics 365 Field Service
+
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Module 5 : Exposer les principes fondamentaux de Dynamics 365 Field Service
 ========================
 
-## <a name="practice-lab-42---schedule-items-in-dynamics-365-field-service"></a>Labo pratique 4.2 - Planifier des éléments avec Dynamics 365 Field Service
+## <a name="practice-lab-52---schedule-items-in-dynamics-365-field-service"></a>Labo pratique 5.2 - Planifier des éléments avec Dynamics 365 Field Service
 
 ## <a name="lab-setup"></a>Mise en place du labo
 
@@ -22,51 +17,56 @@ ms.locfileid: "144404992"
   
 ## <a name="instructions"></a>Instructions
 
-1.  Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte.  
+1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte.
 
-2.  Dans le volet de navigation de gauche, sélectionnez **Ordres de travail**.
+2. Dans le volet de navigation de gauche, sélectionnez **Ordres de travail**.
 
-3.  Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel ordre de travail.
+3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel ordre de travail.
 
-4.  Renseignez les détails de l’ordre de travail comme suit :
-    - Compte de service : ADatum Corporation
+4. Renseignez les détails de l’ordre de travail comme suit :
+
+    - Compte de service : Adatum Corporation
+
     - Type d’incident principal : Scanner MRI en panne
+
+    - Liste de prix : Utiliser les taux de facturation standard
+
+    - Type d’ordre de travail : sélectionner Appel de service dans la recherche
+
     - Imposable : Non
-    
-5.  Sélectionnez **Enregistrer et fermer** pour enregistrer vos modifications et quitter le nouvel ordre de travail.
 
-6.  Dans la **Barre de commandes** de l’**Ordre de travail**, cliquez sur le bouton **Réserver**.  L’Assistant **Planifier** s’ouvre.  
+5. Sélectionnez **Enregistrer** pour enregistrer vos modifications et rester sur l’enregistrement nouvellement créé.
 
-7.  Des options de planification de l’élément devraient vous être proposées.  Sélectionnez l’enregistrement **Ryan Brim**.
+6. Dans la **Barre de commandes** de l’**Ordre de travail**, cliquez sur le bouton **Réserver**. L’Assistant **Planifier** s’ouvre.
 
-8.  Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le **début de l’heure suivante**.
+7. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement **Ryan Brim**.
 
-9.  Définissez **Heure de fin** sur les 2,5 heures suivantes.  
+8. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le **début de l’heure suivante**.
 
-10. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification.  
+9. Définissez l’**Heure de fin** sur 2 heures 30 après.
 
-11. Une fois revenu dans l’ordre de travail, cliquez sur le bouton **Enregistrer et fermer** dans la **barre de commandes**.  
+10. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification.
+
+11. Une fois revenu dans l’ordre de travail, cliquez sur le bouton **Enregistrer et fermer** dans la **barre de commandes**.
 
 12. Dans le volet de navigation de gauche, sélectionnez **Tableau de planification**.
 
 13. Au bas de l’écran du volet Besoins, sélectionnez **Ordres de travail non planifiés**.
 
-14. Sélectionnez l’ordre de travail **Adventure Works** que vous avez créé précédemment en utilisant le n° d’ordre de travail que vous aviez noté. Dans les options qui s’affichent, sélectionnez **Rechercher la disponibilité**.  
+14. Sélectionnez l’ordre de travail **Adventure Works** que vous avez créé précédemment et utilisez le n° d’ordre de travail que vous aviez noté. Dans les options qui s’affichent, sélectionnez **Rechercher la disponibilité**.
 
-15. L’Assistant **Planifier** s’ouvre.  
+15. L’Assistant **Planifier** s’ouvre.
 
-16. Des options de planification de l’élément devraient vous être proposées.  Sélectionnez l’enregistrement Bob Kozak.
+16. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement Bob Kozak.
 
 17. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le **début de l’heure suivante**.
 
-18. Définissez **Heure de fin** sur les 2,5 heures suivantes.
-  
-19. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification. 
+18. Définissez l’**Heure de fin** sur 2 heures 30 après.
 
-20. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs.  Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification.  
+19. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification.
 
-21. Cliquez sur la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Ryan et localisez l’ordre de travail planifié pour Ryan à une heure ultérieure du jour.  
+20. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs. Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification.
+
+21. Cliquez dans la zone Rechercher dans les ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Ryan et localisez l’ordre de travail planifié pour Ryan à une heure ultérieure du jour.
 
 22. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution**.
-
-

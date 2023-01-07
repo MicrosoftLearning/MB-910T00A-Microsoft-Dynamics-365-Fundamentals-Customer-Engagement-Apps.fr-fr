@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 1.2 : Gérer les clients et les activités'
+  title: "Labo\_1.2\_: Gérer les clients et les activités"
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404963"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Module 1 : Examiner les principales fonctionnalités de Dynamics 365 (CRM)
 ========================
 
@@ -28,7 +23,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 1. Ouvrez l’application **Centre des ventes Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Comptes**. 
+2. Sélectionnez **Comptes** dans la section **Clients** du menu de gauche. 
 
 3. Dans la Barre de commandes en haut, sélectionnez le bouton **Nouveau**.
 
@@ -68,9 +63,9 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 9. Sélectionnez le bouton **Enregistrer** pour enregistrer le compte et laissez-le ouvert. 
 
-10. Localisez la **sous-grille Contacts** sur le côté droit de l’écran. 
+10. Localisez la sous-grille Contacts sur le côté droit de l’écran.
 
-11. Sélectionnez **Trois points suspendus**, et dans le menu qui s’affiche, sélectionnez **Nouveau contact**. 
+11. Sélectionnez **Trois points suspendus**, et dans le menu qui s’affiche, sélectionnez **Nouveau contact**.
 
 12. À l’aide du formulaire **Création rapide de contact**, renseignez le contact comme suit :
 
@@ -90,7 +85,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 16. Dans le menu qui s’affiche, sélectionnez **Rendez-vous**.
 
-17. Renseignez le rendez-vous comme suit :
+17. Remplissez le formulaire **Création rapide : Rendez-vous** comme suit :
 
     - **Objet :** Réunion avec Jackson
 
@@ -98,16 +93,14 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Heure de fin :** Demain à 11:00 
 
-18. Sélectionnez le bouton **Enregistrer et fermer**. 
+18. Sélectionnez le bouton **Enregistrer et fermer**.      
 
-19. Sur votre clavier, appuyez sur la touche **F5** pour actualiser l’écran.     
+19. Dans la chronologie de l’enregistrement, sélectionnez **Afficher plus** dans l’enregistrement **Rendez-vous** pour afficher plus de détails.   
 
-20. Dans la chronologie de l’enregistrement, sélectionnez le **rendez-vous** pour en afficher les détails.   
+20. Cliquez sur le bouton **Ouvrir l’enregistrement**. 
 
-21. Sélectionnez le lien **Ouvrir le rendez-vous**. 
+21. Une fois que l’enregistrement de rendez-vous est ouvert, depuis la **Barre de commandes**, sélectionnez le bouton **Marquer comme terminé** pour terminer le rendez-vous. 
 
-22. Une fois que l’enregistrement de rendez-vous est ouvert, depuis la **Barre de commandes**, sélectionnez le bouton **Marquer comme terminé** pour terminer le rendez-vous. 
+22. Cliquez sur le bouton **Enregistrer et fermer** pour revenir à l’enregistrement de compte.   
 
-23. Cliquez sur le bouton **Enregistrer et fermer** pour revenir à l’enregistrement de compte.   
-
-24. Sélectionnez **Enregistrer et fermer** sur l’enregistrement de compte pour le quitter.   
+23. Sélectionnez **Enregistrer et fermer** sur l’enregistrement de compte pour le quitter.   

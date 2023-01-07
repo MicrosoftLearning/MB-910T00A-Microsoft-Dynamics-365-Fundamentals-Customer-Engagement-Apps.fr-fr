@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 4.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
+  title: "Labo\_4.1\_: Créer et publier un article de Base de connaissances dans Dynamics\_365 Customer Service"
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855082"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 4 : Exposer les principes fondamentaux de Dynamics 365 Customer Service
 ========================
 
@@ -22,13 +17,13 @@ ms.locfileid: "147855082"
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
+2. Sélectionnez **Articles de connaissances** dans la section **Connaissances** du menu de gauche. 
 
-3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
+3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. Notez qu’il peut ne pas y avoir d’articles actifs dans la liste.
 
 4. Sélectionnez **Brouillons d’article**. 
 
-5. Sélectionnez **Articles approuvés**. Vous devriez voir au moins un article approuvé.  
+5. Sélectionnez **Articles approuvés**. 
 
 6. Revenez à **Mes articles actifs**
 
@@ -66,7 +61,7 @@ ms.locfileid: "147855082"
 
 11. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer** pour enregistrer l’article de la Base de connaissances et laissez-le ouvert. 
 
-12. Dans **Nouveau processus**, sélectionnez la phase **Auteur**, définissez le champ **Sujet de l’article** sur **Livraison** (sous Service). 
+12. Dans le **Nouveau processus**, sélectionnez la phase **Créer** et définissez le champ **Sujet de l’article** sur **Sujet par défaut**. 
 
 13. Définissez le champ **Marquer pour révision** sur **Terminé**.
 
@@ -88,7 +83,7 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
 21. Dans la **Barre de commandes** en haut de l’article, sélectionnez les **trois points verticaux** à gauche de la barre de commandes. Dans le menu qui s’affiche, sélectionnez **Associer un produit**. 
 
-22. Dans la fenêtre **Associer un produit**, sélectionnez **Office 365 pour Entreprise (exemple).**
+22. Dans le formulaire **Lier le produit**, dans **Sélectionner le produit à associer**, sélectionnez **Office 365**.
 
 23. Sélectionnez le bouton **Associer**. 
 
@@ -100,22 +95,14 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
 27. Sélectionnez le bouton **Terminer** pour terminer le processus. 
 
-28. Dans la **Barre de commandes** de l’article, sélectionnez le bouton **Publier**. 
-
-29. Vérifiez que les champs suivants sont sélectionnés :
+28. Dans le formulaire **Publier**, vérifiez que les éléments suivants sont sélectionnés :
 
     - **Publication :** Maintenant
 
     - **État de publication :** Publié
 
     - **Date d’expiration :** Une année à compter de ce jour à 00h00
-
-    - **État d’expiration :** Expiré
-
-    - **Statut d’expiration :** Expiré
-
-    - **Publier les traductions approuvées :** Non
     
-30. Cliquez sur le bouton **Publier** pour publier l’article.
+29. Cliquez sur le bouton **Publier** pour publier l’article.
 
-
+>[!Note] Les articles de Base de connaissances publiés peuvent mettre plusieurs minutes avant d’apparaître dans la **Recherche de la Base de connaissances**.

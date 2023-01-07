@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Labo 2.1 : Créer un segment dans Dynamics 365 Marketing'
+  title: "Labo\_2.1\_: Créer un segment dans Dynamics\_365\_Marketing"
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855071"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
 ========================
 
@@ -25,28 +20,30 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 ## <a name="instructions"></a>Instructions
 
 
-1. Dans le volet de navigation de gauche, sélectionnez **Segments** sous Marketing.  
+1. Ouvrez l’application Dynamics 365 Marketing. 
 
-2. Dans la barre de commandes, sélectionnez **Nouveau**.
+2. À l’aide de la navigation de gauche, remplacez le domaine par **Marketing sortant** et sélectionnez **Segments** sous le groupe Clients.
 
-3. Dans le menu déroulant qui apparaît, sélectionnez **Nouveau segment dynamique**.
+3. Dans la barre de commandes, sélectionnez **Nouveau**.
 
-4. Dans la boîte de dialogue **Modèles de segments** qui s’ouvre, sélectionnez **Segment de profil de base**, puis sélectionnez le bouton **Sélectionner**
+4. Dans le menu déroulant qui apparaît, sélectionnez **Nouveau segment dynamique**.
 
-5. Sélectionnez le texte fantôme **Sélectionner un attribut**.
+5. Dans la boîte de dialogue **Modèles de segments** qui s’ouvre, sélectionnez **Segment de profil de base**, puis sélectionnez le bouton **Sélectionner**
 
-6. Tapez « ville » pour filtrer la liste et sélectionnez **Adresse 1 : Ville**.
+6. Sélectionnez le texte fantôme **Sélectionner un attribut**.
 
-7. Laissez la liste déroulante suivante définie sur **Égal à**. 
+7. Tapez « ville » pour filtrer la liste et sélectionnez **Adresse 1 : Ville**.
 
-8. Sélectionnez la troisième liste déroulante qui contient le texte fantôme **Entrer du texte** et saisissez **Redmond**.
+8. Laissez la liste déroulante suivante définie sur **Égal à**. 
 
-9. Cliquez pour sélectionner le champ **Nom** en haut de la requête et entrez **Contacts Redmond**.
+9. Sélectionnez la troisième liste déroulante qui contient le texte fantôme **Entrer du texte** et saisissez **Redmond**.
 
-10. Sélectionnez **Enregistrer** dans la barre de commandes pour enregistrer le segment.
+10. Cliquez pour sélectionner le champ **Nom** en haut de la requête et entrez **Contacts Redmond - vos initiales**.
 
-11. Sélectionnez **Mise en service** pour publier le segment.
+11. Sélectionnez **Enregistrer** dans la barre de commandes pour enregistrer le segment.
 
-12. Attendez environ une minute, puis sélectionnez **Actualiser** dans la barre de commandes pour actualiser la page. 
+12. Sélectionnez **Mise en service** pour publier le segment.
 
-13. Vous devriez maintenant voir qu’un onglet **Membres** a été ajouté. 
+13. Attendez environ une minute, puis sélectionnez **Actualiser** dans la barre de commandes pour actualiser la page. 
+
+14. Vous devriez maintenant voir qu’un onglet **Membres** a été ajouté. 
