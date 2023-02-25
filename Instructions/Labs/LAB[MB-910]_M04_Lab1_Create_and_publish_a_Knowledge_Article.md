@@ -4,16 +4,16 @@ lab:
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
-<a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Module 4 : Exposer les principes fondamentaux de Dynamics 365 Customer Service
+Module 4 : Exposer les principes fondamentaux de Dynamics 365 Customer Service
 ========================
 
-## <a name="practice-lab-41---create-and-publish-a-knowledge-article-in-dynamics-365-customer-service"></a>Labo pratique 4.1 - Créer et publier un article de la base de connaissances dans Dynamics 365 Customer Service
+## Labo pratique 4.1 - Créer et publier un article de la base de connaissances dans Dynamics 365 Customer Service
 
-## <a name="lab-setup"></a>Mise en place du labo
+## Mise en place du labo
 
   - **Durée estimée** : 15 minutes
 
-## <a name="instructions"></a>Instructions
+## Instructions
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
