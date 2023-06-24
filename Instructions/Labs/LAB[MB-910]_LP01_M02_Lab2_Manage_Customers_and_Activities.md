@@ -2,7 +2,7 @@
 lab:
   title: "Parcours d’apprentissage\_1\_- Labo\_1.2\_: Gérer les clients et les activités"
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 Parcours d’apprentissage 2 - Module 2 Décrire les activités partagées et les options d’intégration dans les applications d’engagement client Dynamics 365
@@ -30,11 +30,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 4. Remplissez l’enregistrement de compte comme suit :
 
-    - **Nom du compte :** Contoso Corporate
+    - **Nom du compte :** Contoso Corporate (Vos initiales)
 
-    - **Téléphone :** 888-555-1234
+    - **Téléphone :** 888-555-1234 (Vos initiales)
 
-    - **Adresse 1 - Rue 1 :** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **Adresse 1 - Rue 1 :** 191 181<sup data-htmlnode="">st</sup> Ave N (Vos initiales)
 
     - **Adresse 1 Ville :** Seattle
 
@@ -48,11 +48,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 7. Remplissez l’enregistrement de compte comme suit :
 
-    - **Nom du compte :** Contoso North America
+    - **Nom du compte :** Contoso North America (Vos initiales)
 
-    - **Téléphone :** 888-555-4321
+    - **Téléphone :** 888-555-4321 (Vos initiales)
 
-    - **Adresse 1 - Rue 1** : 187 11<sup data-htmlnode="">th</sup> ST N
+    - **Adresse 1 - Rue 1** : 187 11<sup data-htmlnode="">th</sup> ST N (Vos initiales)
 
     - **Adresse 1 Ville :** Chicago
 
@@ -72,11 +72,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Prénom :** Jackson
 
-    - **Nom :** Anderson
+    - **Nom :** Anderson (Vos initiales)
 
     - **Fonction :** PDG
 
-    - **E-mail :** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **E-mail :** [Jackson (Vos initiales)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -88,7 +88,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 17. Renseignez le rendez-vous comme suit :
 
-    - **Objet :** Réunion avec Jackson
+    - **Objet :** Réunion avec Jackson (Vos initiales)
 
     - **Heure de début :** Demain à 10:00
 
