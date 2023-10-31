@@ -1,4 +1,4 @@
-# MB-910T00A : Microsoft Dynamics 365 - Notions fondamentales - Applications d’engagement client
+# MB-910T00A : Principes fondamentaux de Microsoft Dynamics 365 (CRM)
 
 - **[Télécharger le dernier manuel du participant et le contenu de tous les fichiers](https://learningdownloadcenter.microsoft.com/)**
 - **Êtes-vous un MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
@@ -18,7 +18,7 @@
 
 - Pour chaque prestation, il est demandé aux formateurs de vérifier dans GitHub les modifications qui ont pu être apportées afin de prendre en charge les derniers services Azure et afin de garantir que ce sont bien les tout derniers fichiers qui seront utilisés dans la cadre de la formation.
 
-## Qu’en est-il des modifications apportées au manuel de l'étudiant ?
+## Qu’en est-il des modifications apportées au manuel du participant ?
 
 - Nous passerons en revue le manuel de l’étudiant sur une base trimestrielle et nous le mettrons à jour par le biais des canaux de diffusion MOC classiques, si nécessaire.
 
