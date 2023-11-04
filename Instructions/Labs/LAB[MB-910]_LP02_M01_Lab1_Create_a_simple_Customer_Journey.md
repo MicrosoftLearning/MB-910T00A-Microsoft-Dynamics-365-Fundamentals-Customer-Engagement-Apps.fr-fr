@@ -1,20 +1,20 @@
 ---
 lab:
   title: "Parcours d’apprentissage\_2\_- Labo\_2.1\_- Créer un parcours client simple"
-  learning path: Explore the fundamentals of Dynamics 365 Marketing
-  module: Explore Dynamics 365 Marketing
+  learning path: Explore the fundamentals of Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights
 ---
 
-Parcours d’apprentissage 2 - Module 1 : Explorer Dynamics 365 Marketing
+Parcours d’apprentissage 2 - Module 1 : Explorer Dynamics 365 Customer Insights
 ========================
 
 ## Labo pratique 2.1 - Créer un parcours client simple
 
-**IMPORTANT** : Instructeurs, assurez-vous d’avoir terminé toutes les étapes de configuration décrites dans la section Dynamics 365 Marketing du Guide de préparation de l’instructeur pour permettre aux étudiants d’effectuer ce labo correctement.   
+**IMPORTANT** : Instructeurs, assurez-vous d’avoir terminé toutes les étapes de configuration décrites dans la section Dynamics 365 Customer Insights - Journeys du Guide de préparation de l’instructeur pour permettre aux étudiants d’effectuer ce labo correctement.   
 
 ## Objectifs
 
-Durant cet exercice, vous constaterez que les parcours des clients sont un composant clé de Dynamics 365 Marketing. Vous allez créer des parcours du client comme base de tout effort marketing. Leur but est de guider le chemin emprunté par un client lors de ses interactions avec le processus marketing de votre organisation. Le but du parcours, une fois terminé, est de le transformer en revenus. 
+Durant cet exercice, vous constaterez que les parcours des clients sont un composant clé de Dynamics 365 Customer Insights - Journeys. Vous allez créer des parcours du client comme base de tout effort marketing. Leur but est de guider le chemin emprunté par un client lors de ses interactions avec le processus marketing de votre organisation. Le but du parcours, une fois terminé, est de le transformer en revenus. 
 
 ## Mise en place du labo
 
