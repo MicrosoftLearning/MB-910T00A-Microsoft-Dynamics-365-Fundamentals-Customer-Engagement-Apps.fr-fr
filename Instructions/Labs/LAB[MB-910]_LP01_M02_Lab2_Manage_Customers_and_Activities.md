@@ -38,13 +38,13 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Adresse 1 Ville :** Seattle
 
-    - **Adresse 1 État/Province :** WA
+    - **Adresse 1 : État/province :** WA
 
-    - **Adresse 1 Code postal :** 98101
+    - **Adresse 1 Code postal :** 98101
 
-5. Dans la Barre de commandes, sélectionnez le bouton **Enregistrer et fermer** pour enregistrer et quitter l’enregistrement de compte.
+5. Dans la barre de commandes, cliquez sur le bouton **Enregistrer et fermer** pour enregistrer et fermer l’enregistrement de compte.
 
-6. Dans la barre de commandes, dans la liste des comptes, sélectionnez encore une fois le bouton **Nouveau**.
+6. Dans la barre de commandes, dans la liste des comptes, cliquez de nouveau sur le bouton **Nouveau**.
 
 7. Remplissez l’enregistrement de compte comme suit :
 
@@ -56,7 +56,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Adresse 1 Ville :** Chicago
 
-    - **Adresse 1 État/Province :** IL
+    - **Adresse 1 : État/province :** IL
 
     - **Adresse 1 Code postal :** 60176
 
@@ -68,7 +68,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 11. Sélectionnez **Trois points suspendus**, et dans le menu qui s’affiche, sélectionnez **Nouveau contact**.
 
-12. À l’aide du formulaire **Création rapide de contact**, renseignez le contact comme suit :
+12. À l’aide du formulaire **Création rapide de contact**, complétez le contact comme suit :
 
     - **Prénom :** Jackson
 
@@ -80,7 +80,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 13. Sélectionnez le bouton **Enregistrer et fermer**.
 
-14. Juste au-dessus de la sous-grille Contact, sélectionnez le champ **Contact principal** et définissez-le sur le contact **Jackson Anderson** que vous venez de créer.
+14. Juste au-dessus de la sous-grille des contacts, cliquez sur le champ **Contact principal** et définissez-le sur le contact **Jackson Anderson** que vous venez de créer.
 
 15. Dans la **Chronologie des enregistrements** située au milieu de l’écran, sélectionnez l’**icône de signe plus** pour ajouter un nouvel élément.
 
@@ -92,13 +92,13 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Heure de début :** Demain à 10:00
 
-    - **Heure de fin :** Demain à 11:00
+    - **Heure et date de fin :** Demain à 11h00
 
 18. Sélectionnez le bouton **Enregistrer et fermer**.
 
 19. **Enregistrez et fermez** le compte.
 
-20. Cliquez pour sélectionnez **Rendez-vous** et affichez les détails correspondants.
+20. Cliquez sur le **rendez-vous** pour le sélectionner et afficher les détails correspondants.
 
 21. Sélectionnez le lien **Ouvrir le rendez-vous**.
 
