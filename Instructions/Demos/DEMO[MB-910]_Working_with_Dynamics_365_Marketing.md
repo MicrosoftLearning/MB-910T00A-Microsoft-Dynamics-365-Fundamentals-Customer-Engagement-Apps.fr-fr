@@ -26,13 +26,13 @@ Dynamics 365 Customer Insights - Journeys permet à votre organisation de prend
 
     - Découvrir les conditions et les actions
 
-- Gérer les parcours du client  
+- Gérer les parcours du client 
 
-    - Ouvrir les parcours du client et démontrer un parcours du client existant  
+    - Ouvrir les parcours du client et démontrer un parcours du client existant 
 
     - Afficher les détails d’un parcours du client
 
-    - Mettre en évidence le segment client utilisé  
+    - Mettre en évidence le segment client utilisé 
 
     - Ouvrir le concepteur de parcours du client
 
@@ -46,13 +46,13 @@ Dynamics 365 Customer Insights - Journeys permet à votre organisation de prend
 
 - Selon le parcours que vous avez créé, il inclut une expérience marketing ciblée basée sur le type de client et ce qu’il a choisi comme mode d’interaction avec le contenu marketing de votre organisation. 
 
-    - Activez un personnage de client et ouvrez un courrier électronique de marketing préconfiguré qui a été envoyé.   Examinez le processus et expliquez comment utiliser les différents contenus du courrier électronique.  
+    - Activez un personnage de client et ouvrez un courrier électronique de marketing préconfiguré qui a été envoyé. Examinez le processus et expliquez comment utiliser les différents contenus du courrier électronique. 
 
-    - Cliquez sur un lien dans le courrier électronique et parcourez la page web vers laquelle vous avez été dirigé.  
+    - Cliquez sur un lien dans le courrier électronique et parcourez la page web vers laquelle vous avez été dirigé. 
 
-    - Interagissez avec le contenu de la page et sélectionnez un lien.  
+    - Interagissez avec le contenu de la page et sélectionnez un lien. 
 
-- Revenez au parcours du client et démontrez le suivi des données et des informations de rapport disponibles.  
+- Revenez au parcours du client et démontrez le suivi des données et des informations de rapport disponibles. 
 
 2. Gérez les événements et inscrivez-vous à des événements sur le portail de gestion des événements
 
