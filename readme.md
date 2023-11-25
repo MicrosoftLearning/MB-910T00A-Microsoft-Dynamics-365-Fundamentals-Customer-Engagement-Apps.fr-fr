@@ -1,4 +1,4 @@
-# MB-910T00A : Principes fondamentaux de Microsoft Dynamics 365 (CRM)
+# MB-910T00A : Principes fondamentaux de Microsoft Dynamics 365 (CRM)
 
 - **[Télécharger le dernier manuel du participant et le contenu de tous les fichiers](https://learningdownloadcenter.microsoft.com/)**
 - **Êtes-vous un MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
