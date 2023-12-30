@@ -8,7 +8,7 @@ lab:
 Parcours d’apprentissage 2 - Module 2 Décrire les activités partagées et les options d’intégration dans les applications d’engagement client Dynamics 365
 ========================
 
-## Labo pratique 1.2 - Gérer les clients et les activités
+## Labo pratique 1.2 : gérer les clients et les activités
 
 ## Objectifs
 
@@ -86,7 +86,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 16. Dans le menu qui s’affiche, sélectionnez **Réunion**.
 
-17. Renseignez le rendez-vous comme suit :
+17. Remplissez les informations du rendez-vous comme suit :
 
     - **Objet :** Réunion avec Jackson (Vos initiales)
 

@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Parcours d’apprentissage\_2\_- Labo\_2.1\_- Créer un parcours client simple"
+  title: "Parcours d’apprentissage\_2\_- Labo\_2.1\_: créer un parcours du client simple"
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
   module: Explore Dynamics 365 Customer Insights
 ---
@@ -8,7 +8,7 @@ lab:
 Parcours d’apprentissage 2 – Module 1 : Découvrir Dynamics 365 Customer Insights
 ========================
 
-## Labo pratique 2.1 - Créer un parcours client simple
+## Labo pratique 2.1 : créer un parcours du client simple
 
 **IMPORTANT** : Instructeurs, veillez à avoir terminé toutes les étapes de configuration décrites dans la section Dynamics 365 Customer Insights – Journeys du Guide de préparation des formateurs pour permettre aux étudiants d’effectuer ce labo correctement.   
 
