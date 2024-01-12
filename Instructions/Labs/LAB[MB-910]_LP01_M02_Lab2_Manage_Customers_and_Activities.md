@@ -90,9 +90,9 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Objet :** Réunion avec Jackson (Vos initiales)
 
-    - **Heure de début :** Demain à 10:00
+    - **Heure de début :** aujourd’hui à 16 h
 
-    - **Heure et date de fin :** Demain à 11h00
+    - **Heure de fin :** aujourd’hui à 16h30
 
 18. Sélectionnez le bouton **Enregistrer et fermer**.
 
