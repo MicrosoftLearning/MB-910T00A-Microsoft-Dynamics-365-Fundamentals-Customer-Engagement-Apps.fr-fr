@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Parcours d’apprentissage\_4\_- Labo\_4.1\_: Créer et gérer des incidents dans Dynamics\_365 Customer\_Service"
+  title: "Parcours d’apprentissage\_4\_- Labo\_4.1\_: créer et gérer des incidents dans Dynamics\_365 Customer\_Service"
   learning path: Learn the fundamentals of Dynamics 365 Customer Service
   module: Explore Dynamics 365 Customer Service
 ---
@@ -8,7 +8,7 @@ lab:
 Parcours d’apprentissage 4 - Module 1 : Explorer Dynamics 365 Customer Service
 ========================
 
-## Labo pratique 4.1 - Créer et gérer des incidents dans Dynamics 365 Customer Service
+## Labo pratique 4.1 : créer et gérer des incidents dans Dynamics 365 Customer Service
 
 ## Mise en place du labo
 

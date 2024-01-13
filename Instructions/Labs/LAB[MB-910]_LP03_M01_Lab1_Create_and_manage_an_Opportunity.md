@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Parcours d’apprentissage\_3\_- Labo\_3.1\_: Créer et gérer une opportunité dans Dynamics\_365 Sales"
+  title: "Parcours d’apprentissage\_3\_- Labo\_3.1\_: créer et gérer une opportunité dans Dynamics\_365\_Sales"
   learning path: Explore the fundamentals of Microsoft Dynamics 365 Sales
   module: Explore Dynamics 365 Sales
 ---
@@ -9,11 +9,11 @@ lab:
 Parcours d’apprentissage 3 - Module 1 : Explorer Dynamics 365 Sales
 ========================
 
-## Labo pratique 3.1 - Créer et gérer une opportunité dans Dynamics 365 Sales 
+## Labo pratique 3.1 : créer et gérer une opportunité dans Dynamics 365 Sales 
 
 ## Objectifs
 
-Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane Anderson. Jane travaille pour une entreprise appelée . Jim travaille pour une société appelée **ABC Consulting**. Vous allez non seulement capturer les informations relatives au prospect dans le système, mais également utiliser les outils disponibles dans Dynamics 365 Sales pour qualifier le prospect comme opportunité et la gérer jusqu’à sa clôture.
+Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane Anderson. Jane travaille pour une entreprise appelée . Jim travaille pour une société appelée **ABC Consulting**. Vous allez capturer les informations relatives au prospect dans le système, puis utiliser les outils disponibles dans Dynamics 365 Sales pour qualifier le prospect comme opportunité et la gérer jusqu’à sa clôture.
 
 ## Mise en place du labo
 
@@ -25,7 +25,7 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
 2. Dans le volet de navigation de gauche, sélectionnez **Prospects**. 
 
-3. Dans la vue **Mes prospects ouverts**, sélectionnez le bouton **Nouveau** pour créer un prospect. 
+3. Dans la vue **Mes prospects ouverts**, cliquez sur le bouton **Nouveau** pour créer un prospect. 
 
 4. Renseignez les informations sur le **Prospect** comme suit :
 
@@ -55,7 +55,7 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
 6. Procédez comme suit :
 
-    - **Délai d’achat :** Immédiat
+    - **Délai d’achat :** immédiat
 
     - **Budget estimé :** 50 000 $ 
 
@@ -67,9 +67,9 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
     **Remarque :** Si vous ne voyez pas le bouton Qualifier, sélectionnez le bouton **Plus de commandes** (représenté par trois points verticaux). 
 
-    Le système ferme l’enregistrement du **Prospect** et crée un enregistrement d’**Opportunité**. Notez que le flux du processus métier **Prospect-opportunité** a été automatiquement avancé à la phase **Développer**. 
+    Le système ferme l’enregistrement du **Prospect** et crée un enregistrement d’**Opportunité**. Notez que le flux des processus d’entreprise **Prospect-opportunité** a été automatiquement avancé jusqu’à la phase **Développer**. 
 
-9. Sur l’**En-tête de l’opportunité** en haut de l’enregistrement, sélectionnez la flèche vers le bas en regard du champ **Propriétaire**. 
+9. Sur l’**en-tête de l’opportunité** situé en haut de l’enregistrement, sélectionnez la flèche vers le bas affichée en regard du champ **Propriétaire**. 
 
 10. Procédez comme suit :
 
@@ -93,7 +93,7 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
 18. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Cliquez sur le bouton **Ajouter** pour finir d’ajouter le concurrent.
 
-19. Dans le flux des processus métier **Prospect-opportunité**, sélectionnez la phase **Développer**. 
+19. Dans le flux des processus d’entreprise **Prospect-opportunité**, sélectionnez la phase **Développer**. 
 
 20. Procédez comme suit : 
 

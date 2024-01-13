@@ -45,25 +45,24 @@ Dans cet exercice, vous allez apprendre à accéder aux différentes application
 10.  La fenêtre contextuelle du sélecteur **Applications** apparaît. Sélectionnez **Centre du service clientèle** pour revenir à l’application **Centre du service clientèle**. Notez que l’application **Centre du service clientèle** propose différentes zones possibles dans le menu **Changer de zone**.
 
 11. Pour revenir à l’application **Centre des ventes**, sélectionnez le texte **Centre du service clientèle** en haut, ce qui ouvre la fenêtre contextuelle du sélecteur **Applications**. Sélectionnez **Centre des ventes**.
-
 Vous pouvez également accéder aux applications métier à partir du portail Office. 
 
-1. Dans un navigateur web, accédez à [https://www.office.com/apps](https://www.office.com/apps). Toutes les applications auxquelles vous avez accès s’affichent.
+12. Dans un navigateur web, accédez à [https://www.office.com/apps](https://www.office.com/apps). Toutes les applications auxquelles vous avez accès s’affichent.
 
-2. Sélectionnez l’onglet **Applications métier** pour limiter les applications aux applications métier Dynamics 365 uniquement.
+13. Sélectionnez l’onglet **Applications métier** pour limiter les applications aux applications métier Dynamics 365 uniquement.
 
-3. Pour réduire le nombre d’applications affichées, cliquez sur le champ Rechercher situé en haut de l’écran.
+14. Pour réduire le nombre d’applications affichées, cliquez sur le champ Rechercher situé en haut de l’écran.
 
-4. Saisissez le texte **Centre des ventes** et sélectionnez l’application **Centre des ventes** pour l’ouvrir.
+15. Saisissez le texte **Centre des ventes** et sélectionnez l’application **Centre des ventes** pour l’ouvrir.
 
-5. Lorsque vous vous trouvez dans une application, vous pouvez utiliser différentes zones en fonction de ce que vous essayez de faire. Par exemple, l’application Centre des ventes contient différents paramètres d’administration que vous pouvez utiliser.
+16. Lorsque vous vous trouvez dans une application, vous pouvez utiliser différentes zones en fonction de ce que vous essayez de faire. Par exemple, l’application Centre des ventes contient différents paramètres d’administration que vous pouvez utiliser.
 
-6. En bas à gauche de l’écran, sélectionnez le texte **Sales** dans la liste qui s’affiche, puis sélectionnez **Paramètres de l’application**. Dans cette partie de l’application, vous pouvez apporter des modifications administratives.
+17. En bas à gauche de l’écran, sélectionnez le texte **Sales** dans la liste qui s’affiche, puis sélectionnez **Paramètres de l’application**. Dans cette partie de l’application, vous pouvez apporter des modifications administratives.
 
-7. Sélectionnez à nouveau le sélecteur de zone et remodifiez-le de **Paramètres de l’application** à **Sales**.
+18. Sélectionnez à nouveau le sélecteur de zone et remodifiez-le de **Paramètres de l’application** à **Sales**.
 
-8. Si vous souhaitez passer de l’application Sales à une autre application telle que le Concentrateur du service client, sélectionnez le texte **Centre des Ventes** dans la partie supérieure gauche de l’écran à côté du texte Dynamics 365.
+19. Si vous souhaitez passer de l’application Sales à une autre application telle que le Concentrateur du service client, sélectionnez le texte **Centre des Ventes** dans la partie supérieure gauche de l’écran à côté du texte Dynamics 365.
 
-9. L’écran Applications apparaît, sélectionnez **Concentrateur du service client** et vous reviendrez à l’application Concentrateur du service client.
+20. L’écran Applications apparaît, sélectionnez **Concentrateur du service client** et vous reviendrez à l’application Concentrateur du service client.
 
-10. Sélectionnez le texte **Concentrateur du service client** en haut pour revenir à l’application **Centre des ventes**.
+21. Sélectionnez le texte **Concentrateur du service client** en haut pour revenir à l’application **Centre des ventes**.
