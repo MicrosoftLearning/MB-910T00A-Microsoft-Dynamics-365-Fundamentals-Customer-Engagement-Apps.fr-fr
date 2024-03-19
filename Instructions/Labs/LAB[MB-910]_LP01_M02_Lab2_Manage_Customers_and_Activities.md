@@ -12,7 +12,7 @@ Parcours d’apprentissage 2 - Module 2 Décrire les activités partagées et
 
 ## Objectifs
 
-Dans cet exercice, vous allez travailler avec des enregistrements communs qui sont utilisés par toutes les applications d’engagement client internes. 
+Dans cet exercice, vous travaillerez avec des enregistrements communs qui sont utilisés par toutes les applications Customer Engagement internes. 
 
 ## Mise en place du labo
 
@@ -24,11 +24,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 1. Si elle n’est pas déjà ouverte, ouvrez l’application **Hub Dynamics 365 Sales**.
 
-2. Dans le volet de navigation de gauche, sélectionnez **Comptes**.
+1. Dans le volet de navigation de gauche, sélectionnez **Comptes**.
 
-3. Dans la barre de commandes, cliquez sur le bouton **Nouveau**.
+1. Dans la barre de commandes, cliquez sur le bouton **Nouveau**.
 
-4. Remplissez l’enregistrement de compte comme suit :
+1. Remplissez l’enregistrement de compte comme suit :
 
     - **Nom du compte :** Contoso Corporate (Vos initiales)
 
@@ -42,11 +42,11 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Adresse 1 Code postal :** 98101
 
-5. Dans la barre de commandes, cliquez sur le bouton **Enregistrer et fermer** pour enregistrer et fermer l’enregistrement de compte.
+1. Dans la barre de commandes, cliquez sur le bouton **Enregistrer et fermer** pour enregistrer et fermer l’enregistrement de compte.
 
-6. Dans la barre de commandes, dans la liste des comptes, cliquez de nouveau sur le bouton **Nouveau**.
+1. Dans la barre de commandes, dans la liste des comptes, cliquez de nouveau sur le bouton **Nouveau**.
 
-7. Remplissez l’enregistrement de compte comme suit :
+1. Remplissez l’enregistrement de compte comme suit :
 
     - **Nom du compte :** Contoso North America (Vos initiales)
 
@@ -60,15 +60,15 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Adresse 1 Code postal :** 60176
 
-8. Définissez le champ **Compte parent** sur le compte **Contoso Corporate** que vous avez créé précédemment.
+1. Définissez le champ **Compte parent** sur le compte **Contoso Corporate** que vous avez créé précédemment.
 
-9. Cliquez sur le bouton **Enregistrer** pour enregistrer le compte et laissez-le ouvert.
+1. Cliquez sur le bouton **Enregistrer** pour enregistrer le compte et laissez-le ouvert.
 
-10. Localisez la **sous-grille Contacts** sur le côté droit de l’écran.
+1. Localisez la **sous-grille Contacts** sur le côté droit de l’écran.
 
-11. Sélectionnez **Trois points suspendus**, et dans le menu qui s’affiche, sélectionnez **Nouveau contact**.
+1. Sélectionnez **Trois points suspendus**, et dans le menu qui s’affiche, sélectionnez **Nouveau contact**.
 
-12. À l’aide du formulaire **Création rapide de contact**, complétez le contact comme suit :
+1. À l’aide du formulaire **Création rapide de contact**, complétez le contact comme suit :
 
     - **Prénom :** Jackson
 
@@ -78,15 +78,15 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **E-mail :** [Jackson (Vos initiales)@contososample.com](mailto:Jackson@contososample.com)
 
-13. Sélectionnez le bouton **Enregistrer et fermer**.
+1. Sélectionnez le bouton **Enregistrer et fermer**.
 
-14. Juste au-dessus de la sous-grille des contacts, cliquez sur le champ **Contact principal** et définissez-le sur le contact **Jackson Anderson** que vous venez de créer.
+1. Juste au-dessus de la sous-grille des contacts, cliquez sur le champ **Contact principal** et définissez-le sur le contact **Jackson Anderson** que vous venez de créer.
 
-15. Dans la **Chronologie des enregistrements** située au milieu de l’écran, sélectionnez l’**icône de signe plus** pour ajouter un nouvel élément.
+1. Dans la **Chronologie des enregistrements** située au milieu de l’écran, sélectionnez l’**icône de signe plus** pour ajouter un nouvel élément.
 
-16. Dans le menu qui s’affiche, sélectionnez **Réunion**.
+1. Dans le menu qui s’affiche, sélectionnez **Réunion**.
 
-17. Remplissez les informations du rendez-vous comme suit :
+1. Remplissez les informations du rendez-vous comme suit :
 
     - **Objet :** Réunion avec Jackson (Vos initiales)
 
@@ -94,16 +94,16 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
     - **Heure de fin :** aujourd’hui à 16h30
 
-18. Sélectionnez le bouton **Enregistrer et fermer**.
+1. Sélectionnez le bouton **Enregistrer et fermer**.
 
-19. **Enregistrez et fermez** le compte.
+1. **Enregistrez et fermez** le compte.
 
-20. Cliquez sur le **rendez-vous** pour le sélectionner et afficher les détails correspondants.
+1. Cliquez sur le **rendez-vous** pour le sélectionner et afficher les détails correspondants.
 
-21. Sélectionnez le lien **Ouvrir le rendez-vous**.
+1. Sélectionnez le lien **Ouvrir l’enregistrement**.
 
-22. Une fois l’enregistrement de rendez-vous est ouvert, dans la **barre de commandes**, sélectionnez le bouton **Marquer comme terminé** pour finir le rendez-vous.
+1. Une fois l’enregistrement de rendez-vous est ouvert, dans la **barre de commandes**, sélectionnez le bouton **Marquer comme terminé** pour finir le rendez-vous.
 
-23. Cliquez sur le bouton **Enregistrer et fermer** pour revenir à l’enregistrement de compte.
+1. Cliquez sur le bouton **Enregistrer et fermer** pour revenir à l’enregistrement de compte.
 
-24. Sélectionnez **Enregistrer et fermer** sur l’enregistrement de compte pour le quitter.
+1. Sélectionnez **Enregistrer et fermer** sur l’enregistrement de compte pour le quitter.
