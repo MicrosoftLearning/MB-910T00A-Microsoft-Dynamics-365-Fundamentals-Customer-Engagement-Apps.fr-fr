@@ -26,7 +26,7 @@ Parcours d’apprentissage 4 - Module 1 : Explorer Dynamics 365 Customer Se
 
     - **Titre de l’incident :** Article arrivé endommagé (Vos initiales)
 
-    - **Client :** George Li
+    - **Client :** George Cao
 
 5.  Sélectionnez le bouton **Enregistrer** pour enregistrer l’enregistrement et laissez-le ouvert. 
 
@@ -44,7 +44,7 @@ Parcours d’apprentissage 4 - Module 1 : Explorer Dynamics 365 Customer Se
 
 12. Sélectionnez le symbole **X** dans la fenêtre de la phase **Rechercher** pour pouvoir continuer à travailler. 
 
-13. Dans la **Chronologie**, sélectionnez le menu de points de suspension verticaux **Actions principales** dans l’activité **Appel téléphonique** que vous avez créée précédemment. Sélectionnez **Fermer l’activité** pour terminer l’activité. 
+13. Dans la **Chronologie**, sélectionnez l’activité **Appel téléphonique** que vous avez créée précédemment. Sélectionnez **Fermer l’activité** pour terminer l’activité. 
 
 14. Dans l’écran **Fermer un appel téléphonique**, sélectionnez le bouton **Fermer un appel téléphonique**. 
 

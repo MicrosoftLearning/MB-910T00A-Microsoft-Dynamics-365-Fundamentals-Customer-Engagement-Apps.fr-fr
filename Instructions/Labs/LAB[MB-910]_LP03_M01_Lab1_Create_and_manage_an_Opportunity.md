@@ -23,9 +23,9 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
 1. Ouvrez l’application **Centre des ventes Dynamics 365** si elle n’est pas déjà ouverte.
 
-2. Dans le volet de navigation de gauche, sélectionnez **Prospects**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Prospects**.
 
-3. Dans la vue **Mes prospects ouverts**, cliquez sur le bouton **Nouveau** pour créer un prospect. 
+3. Dans la vue **Mes prospects ouverts**, cliquez sur le bouton **Nouveau** pour créer un prospect.
 
 4. Renseignez les informations sur le **Prospect** comme suit :
 
@@ -51,67 +51,68 @@ Au cours de cet exercice, vous allez créer manuellement un prospect pour Jane 
 
     - **Code postal :** 58102
 
-5. Dans le processus de vente **Prospect-opportunité**, sélectionnez la phase **Qualifier**.
+5. Sélectionnez le bouton **Enregistrer** pour enregistrer le prospect et laissez-le ouvert.
 
-6. Procédez comme suit :
+6. Dans le processus de vente **Prospect-opportunité**, sélectionnez la phase **Qualifier**.
+
+7. Procédez comme suit :
 
     - **Délai d’achat :** immédiat
 
-    - **Budget estimé :** 50 000 $ 
+    - **Budget estimé :** 50 000 $
 
     - **Processus d’achat :** Comité
 
-7. Fermez la fenêtre de la phase **Qualifier**. 
+8. Fermez la fenêtre de la phase **Qualifier**.
 
-8.  Dans la **Barre de commandes**, sélectionnez le bouton **Qualifier**. 
+9. Dans la **Barre de commandes**, sélectionnez le bouton **Qualifier**.
 
-    **Remarque :** Si vous ne voyez pas le bouton Qualifier, sélectionnez le bouton **Plus de commandes** (représenté par trois points verticaux). 
+    > **Remarque :** Si vous ne voyez pas le bouton Qualifier, sélectionnez le bouton **Plus de commandes** (représenté par trois points verticaux).
 
-    Le système ferme l’enregistrement du **Prospect** et crée un enregistrement d’**Opportunité**. Notez que le flux des processus d’entreprise **Prospect-opportunité** a été automatiquement avancé jusqu’à la phase **Développer**. 
+    Le système ferme l’enregistrement du **Prospect** et crée un enregistrement d’**Opportunité**. Notez que le flux des processus d’entreprise **Prospect-opportunité** a été automatiquement avancé jusqu’à la phase **Développer**.
 
-9. Sur l’**en-tête de l’opportunité** situé en haut de l’enregistrement, sélectionnez la flèche vers le bas affichée en regard du champ **Propriétaire**. 
+10. Sur l’**en-tête de l’opportunité** situé en haut de l’enregistrement, sélectionnez la flèche vers le bas affichée en regard du champ **Propriétaire**.
 
-10. Procédez comme suit :
+11. Procédez comme suit :
 
     - **Revenu Date fin prévue :** Dans deux jours à compter d’aujourd’hui
 
     - **Chiffre d’affaires estimé :** 50 000 $
-    
-11. Dans la sous-grille **Parties prenantes**, notez que **Jane Anderson** (Vos initiales) est déjà définie en tant que partie prenante. 
 
-12. Dans la sous-grille **Équipe de vente**, sélectionnez les **trois points suspendus**. Dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**. 
+12. Dans la sous-grille **Parties prenantes**, notez que **Jane Anderson** (Vos initiales) est déjà définie en tant que partie prenante.
 
-13. Recherchez votre enregistrement utilisateur et sélectionnez-le. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**. 
+13. Dans la sous-grille **Équipe de vente**, sélectionnez les **trois points suspendus**. Dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**.
 
-14. Dans la sous-grille **Concurrents**, sélectionnez les **points de suspension verticaux** (représentés par trois points verticaux). Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
+14. Recherchez votre enregistrement utilisateur et sélectionnez-le. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**.
 
-15. Dans l’écran **Rechercher un enregistrement**, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents**.
+15. Dans la sous-grille **Concurrents**, sélectionnez les **points de suspension verticaux** (représentés par trois points verticaux). Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**.
 
-16. Dans le formulaire **Création rapide : Concurrent**, définissez le champ **Nom** sur **Coho Technologies (Vos initiales)** .
+16. Dans l’écran **Rechercher un enregistrement**, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents**.
 
-17. Sélectionnez le bouton **Enregistrer et fermer**.
+17. Dans le formulaire **Création rapide : Concurrent**, définissez le champ **Nom** sur **Coho Technologies (Vos initiales)** .
 
-18. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Cliquez sur le bouton **Ajouter** pour finir d’ajouter le concurrent.
+18. Sélectionnez le bouton **Enregistrer et fermer**.
 
-19. Dans le flux des processus d’entreprise **Prospect-opportunité**, sélectionnez la phase **Développer**. 
+19. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Cliquez sur le bouton **Ajouter** pour finir d’ajouter le concurrent.
 
-20. Procédez comme suit : 
+20. Dans le flux des processus d’entreprise **Prospect-opportunité**, sélectionnez la phase **Développer**.
 
-    - **Identifier les parties prenantes :** terminé 
+21. Procédez comme suit :
 
-    - **Identifier les concurrents :** terminé 
+    - **Identifier les parties prenantes :** terminé
 
-21. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Proposer**. 
+    - **Identifier les concurrents :** terminé
 
-22. Dans la phase **Proposer**, marquez les quatre tâches comme **terminées**. Sélectionnez **Phase suivante**.
+22. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Proposer**.
 
-23. À la phase **Fermer**, marquez toutes les tâches comme **terminées**. 
+23. Dans la phase **Proposer**, marquez les quatre tâches comme **terminées**. Sélectionnez **Phase suivante**.
 
-24. Sélectionnez le bouton **Terminer** dans le flux des processus métier. 
+24. À la phase **Fermer**, marquez toutes les tâches comme **terminées**.
 
-    Maintenant que vous avez terminé le processus d’entreprise, vous devez fermer l’opportunité.
+25. Sélectionnez le bouton **Terminer** dans le flux des processus métier.
 
-25. Dans la **Barre de commandes** de l’opportunité, cliquez sur le bouton **Fermer comme conclu**.
+Maintenant que vous avez terminé le processus d’entreprise, vous devez fermer l’opportunité.
 
-26. Dans la boîte de dialogue **Fermer l’opportunité**, sélectionnez le bouton **OK** pour fermer totalement l’enregistrement d’opportunité. 
+26. Dans la **Barre de commandes** de l’opportunité, cliquez sur le bouton **Fermer comme conclu**.
 
+27. Dans la boîte de dialogue **Fermer l’opportunité**, sélectionnez le bouton **OK** pour fermer totalement l’enregistrement d’opportunité.

@@ -2,10 +2,10 @@
 lab:
   title: "Parcours d’apprentissage\_2\_- Labo\_2.1\_: créer un parcours du client simple"
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
-  module: Explore Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights - Journeys
 ---
 
-Parcours d’apprentissage 2 – Module 1 : Découvrir Dynamics 365 Customer Insights
+Parcours d’apprentissage 2 – Module 1 : Explorer Dynamics 365 Customer Insights - Parcours
 ========================
 
 ## Labo pratique 2.1 : créer un parcours du client simple
@@ -21,28 +21,32 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
   - **Durée estimée** : 10 minutes
 
 ## Instructions
-1. Dans le volet de navigation de gauche, sélectionnez **Parcours client** sous le groupe **Exécution marketing**.
+1. Dans le volet de navigation de gauche, sélectionnez **Parcours** sous le groupe **Engagement**.
 
-2. À l’aide de la barre de commandes, sélectionnez **+ Nouveau**.
+1. À l’aide de la barre de commandes, sélectionnez **+ Nouveau parcours**.
 
-3. Dans la fenêtre contextuelle **Modèles de parcours client**, sélectionnez **Ignorer** pour commencer à créer un parcours à partir de zéro.
-4. Sélectionnez **Définir l’audience** (ou sinon, sélectionnez **+** ). Vérifiez que **Type de source** est défini sur **Segment**, et sélectionnez le segment **Fargo Contacts**. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
+1. Sélectionnez **Ignorer et Créer à partir de zéro**.
 
-5. Sélectionnez **+** sur le canevas, puis sélectionnez **Envoyer un courrier électronique** dans le menu contextuel.
+1. Dans la fenêtre contextuelle **Créer un parcours avec Copilot**, sélectionnez **Ignorer** **et Créer à partir de zéro**.
 
-6. Dans la section **Envoyer un e-mail**, sélectionnez **Exemple d’e-mail**.
+1. Dans le champ Nommer le parcours, entrez Parcours client Fargo (Vos initiales) 
 
-7. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
+1. Sous Choisir le type de parcours, choisissez Basé sur les segments, puis le segment **Contacts Fargo**. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
 
-    - **Nom** : Parcours client Fargo (Vos initiales) 
+1. Sous **Sélectionner la fréquence**, choisissez **Un parcours à usage unique avec un public statique**.
 
-    - **Date et heure de début** : Entrez la date d’aujourd’hui
+1. Définissez la **Date de début** sur la **Date de demain**.
 
-    - **Date et heure de fin** : Un mois à compter d’aujourd’hui
+1. Cliquez sur le bouton **Créer**.
 
-    - **Fuseau horaire** : Sélectionnez votre fuseau horaire local
+1. Sélectionnez le bouton **Ajouter une action**.
 
-8. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
+1. Dans le menu qui s’affiche, sélectionnez **E-mail**.
 
-9. Votre parcours est maintenant prêt à démarrer. Pour le démarrer, publiez-le en sélectionnant **Mise en service** dans la barre de commandes.
+1. Dans le panneau Propriétés de l’e-mail à droite, configurez comme suit :
 
+    - **Sélectionnez l’e-mail :** E-mail 
+
+    - **Envoyer à :** E-mail
+
+1. Votre parcours est désormais prêt à être envoyé. Pour le démarrer, publiez-le en sélectionnant **Mise en service** dans la barre de commandes.
